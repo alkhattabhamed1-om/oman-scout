@@ -19,9 +19,8 @@ The repository, GitHub Pages and the workflows are set up for you. Two steps nee
 
 The scan uses your Claude subscription (Pro, Max, Team or Enterprise), so there is no separate bill.
 
-1. Install Claude Code on your computer: `npm install -g @anthropic-ai/claude-code`
-2. Run `claude setup-token` and sign in when the browser opens. It prints a long token. Copy it.
-3. On GitHub open your repository, then **Settings, Secrets and variables, Actions, New repository secret**. Name it `CLAUDE_CODE_OAUTH_TOKEN` and paste the token as the value.
+1. Run `claude setup-token` and sign in when the browser opens. It prints a long token. Copy it. If you do not have the `claude` command, install it first with `npm install -g @anthropic-ai/claude-code`. The Claude desktop app also ships its own `claude.exe`.
+2. Save the token as a repository secret named `CLAUDE_CODE_OAUTH_TOKEN`. Either run `gh secret set CLAUDE_CODE_OAUTH_TOKEN` and paste the token when asked, or open your repository on GitHub, then **Settings, Secrets and variables, Actions, New repository secret**.
 
 Never paste the token into a chat, an issue, or any file in the repository.
 

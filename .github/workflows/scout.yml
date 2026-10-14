@@ -29,8 +29,8 @@ jobs:
       matrix:
         task: [oman-opportunities, oman-market, gcc, global]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
       - name: Install Claude Code
@@ -40,7 +40,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
           if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
-            echo "::error::The secret CLAUDE_CODE_OAUTH_TOKEN is missing. See the README, step 4."
+            echo "::error::The secret CLAUDE_CODE_OAUTH_TOKEN is missing. See the README, One-time setup, step 1."
             exit 1
           fi
       - name: Run the scan
@@ -48,7 +48,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           SCOUT_MODEL: ${{ inputs.model || 'sonnet' }}
         run: node scripts/run-task.mjs ${{ matrix.task }}
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: result-${{ matrix.task }}
@@ -64,13 +64,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: main
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v8
         with:
           pattern: result-*
           path: out

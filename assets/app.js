@@ -921,7 +921,7 @@ function renderDialog() {
     parts.push(el('ol', { class: 'steps' }, steps));
     if (rf.phase === 'running' || rf.phase === 'queued' || rf.phase === 'starting') parts.push(el('p', { class: 'note', id: 'rf-elapsed', text: t('rf.elapsed', { t: fmtElapsed(Date.now() - rf.startedAt) }) }));
     if (rf.phase === 'done') parts.push(el('p', { class: 'note good', text: t('rf.done') }));
-    if (rf.phase === 'failed') parts.push(el('p', { class: 'note bad', text: t('rf.fail') }));
+    if (rf.phase === 'failed') parts.push(el('p', { class: 'note bad', text: t('rf.fail') + ' ' + t('rf.fail.hint') }));
     if (rf.runUrl) parts.push(el('div', { class: 'dlg-actions' }, el('a', { class: 'btn btn-soft btn-sm', href: rf.runUrl, target: '_blank', rel: 'noopener noreferrer' }, icon('ext'), t('rf.openlog'))));
   } else {
     parts.push(el('p', { text: t('rf.intro') }));
