@@ -1,0 +1,9 @@
+{
+  "name": "oman-scout",
+  "private": true,
+  "type": "module",
+  "description": "Upcoming tech events, student competitions, competitor moves and funding in Oman, the GCC and worldwide.",
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.mjs\""
+  }
+}

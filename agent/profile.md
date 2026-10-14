@@ -18,6 +18,13 @@ ar: طالب عُماني في مرحلة البكالوريوس داخل عُم
 - Travel: happy to attend ordinary in-person events elsewhere in the GCC (for example the UAE). Not planning long or expensive trips, so far-away in-person events are for information only. Online events anywhere are fine.
 - Language: reads English and Arabic.
 
+### Interests and priorities
+
+- Strongest interests: AI and machine learning, software and programming contests, data, cybersecurity, startups and entrepreneurship, web and mobile development.
+- Also interested: cloud, fintech, IoT and robotics, careers and networking.
+- Priority order: competitions first (hackathons, contests, challenges and programmes with a prize, recognition or strong portfolio value), then free or cheap events, then funding programmes, then competitor and market news.
+- Values: real prizes or recognition, learning value, a solo or team option, dates that fit a student's calendar, and anything an Omani student can join online.
+
 ### Eligibility rules for this person
 
 - Competitions and programmes that need a registered company, revenue, or professional experience are "ineligible".

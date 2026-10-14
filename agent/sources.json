@@ -1,0 +1,1130 @@
+{
+ "version": 1,
+ "note": "Official and recurring pages worth opening on every scan. The scan reads them first; ids are referenced by agent/tasks.json.",
+ "sources": [
+  {
+   "id": "ocec-om-events-exhibitions",
+   "url": "https://ocec.om/events-exhibitions/",
+   "label": "OCEC events calendar",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Official list of Oman Convention & Exhibition Centre events with dates; two pages, updated as shows are added. Few are tech events.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "comex-global-com",
+   "url": "https://www.comex-global.com/",
+   "label": "COMEX Global Technology Show",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Dates, hackathon, awards, startup zone and career zone pages for COMEX 2027; check weekly for registration and awards opening.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events"
+   ]
+  },
+  {
+   "id": "omancareerfair-com-en",
+   "url": "https://omancareerfair.com/en",
+   "label": "Oman Career Fair",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Dates, employers and registration for the October 2026 fair; check for the next edition afterwards.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events"
+   ]
+  },
+  {
+   "id": "omanstartuphub-om-events",
+   "url": "http://omanstartuphub.om/events",
+   "label": "Oman Startup Hub events",
+   "kind": "community",
+   "region": "oman",
+   "note": "Frequent talks and founder sessions in Muscat (roughly monthly); upcoming and past lists on one page.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "startupgrind-com-muscat",
+   "url": "https://www.startupgrind.com/muscat/",
+   "label": "Startup Grind Muscat",
+   "kind": "community",
+   "region": "oman",
+   "note": "Chapter page listing Muscat founder meetups and fireside chats, often free.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "thefuture-event-com",
+   "url": "https://thefuture-event.com/",
+   "label": "The Future Event",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Organiser of Enterprise AI Expo, Oman Career Fair and Oman Legal Tech; lists upcoming dates and venues across the region.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "genglobal-org-oman",
+   "url": "https://www.genglobal.org/oman",
+   "label": "Global Entrepreneurship Network: Oman",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Names the National Business Centre (Madayn) as Oman host of Global Entrepreneurship Week; check early November for the local programme.",
+   "tasks": [
+    "oman-events",
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "omansustainabilityweek-com-home",
+   "url": "https://omansustainabilityweek.com/home",
+   "label": "Oman Sustainability Week",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "April 2027 dates, awards categories and interest form; updates when ticketing opens.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events"
+   ]
+  },
+  {
+   "id": "cert-gov-om",
+   "url": "https://www.cert.gov.om/",
+   "label": "Oman National CERT",
+   "kind": "government",
+   "region": "oman",
+   "note": "Lists planned cybersecurity workshops and Hadatha hackathons by quarter; pages sometimes block automated access.",
+   "tasks": [
+    "oman-competitions"
+   ]
+  },
+  {
+   "id": "eventbrite-com-d-oman-muscat-events",
+   "url": "https://www.eventbrite.com/d/oman--muscat/events/",
+   "label": "Eventbrite Muscat",
+   "kind": "directory",
+   "region": "oman",
+   "note": "Aggregated Muscat listings including paid industry summits; changes daily, few student events.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "aiinoman-com-category-events-market",
+   "url": "https://aiinoman.com/category/events-market",
+   "label": "AI in Oman: Events and Market Intel",
+   "kind": "news",
+   "region": "oman",
+   "note": "Blog roundups of Omani tech events, hackathons and calls; useful as leads only, confirm on organiser sites.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "oman-cysecglobal-com",
+   "url": "https://oman.cysecglobal.com/",
+   "label": "CYSEC Oman",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Page for the annual Muscat cybersecurity conference with date, venue and registration.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "aws-amazon-com-events-reinvent-faqs",
+   "url": "https://aws.amazon.com/events/reinvent/faqs/",
+   "label": "AWS re:Invent FAQ",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Dates, free livestream terms, pricing and refund dates for re:Invent; changes as the event nears.",
+   "tasks": [
+    "global-events",
+    "global-competitions"
+   ]
+  },
+  {
+   "id": "nvidia-com-gtc",
+   "url": "https://www.nvidia.com/gtc/",
+   "label": "NVIDIA GTC",
+   "kind": "organizer",
+   "region": "global",
+   "note": "GTC 2027 dates, registration launch, call for posters and pass types; update expected this fall.",
+   "tasks": [
+    "global-events"
+   ]
+  },
+  {
+   "id": "googlecloudevents-com-next-vegas-faq",
+   "url": "https://www.googlecloudevents.com/next-vegas/faq",
+   "label": "Google Cloud Next FAQ",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Next 2027 dates and registration announcements; check for a digital pass.",
+   "tasks": [
+    "global-events"
+   ]
+  },
+  {
+   "id": "imaginecup-microsoft-com",
+   "url": "https://imaginecup.microsoft.com/",
+   "label": "Microsoft Imagine Cup",
+   "kind": "organizer",
+   "region": "global",
+   "note": "2027 competition status, tracks, registration and deadlines; check weekly until the deadline is posted.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "gitex-com",
+   "url": "https://www.gitex.com/",
+   "label": "GITEX Global",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Dubai expo dates, ticket links and component events (Scale Summit, Expand North Star).",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "qatar-websummit-com",
+   "url": "https://qatar.websummit.com/",
+   "label": "Web Summit Qatar",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Doha 2027 dates, ticket tiers and startup programme.",
+   "tasks": [
+    "gcc-events",
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "developers-google-com-open-source-gsoc-timeline",
+   "url": "https://developers.google.com/open-source/gsoc/timeline",
+   "label": "Google Summer of Code timeline",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Official yearly timeline; the 2027 schedule should replace the 2026 one around the new year.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "developer-apple-com-swift-student-challenge",
+   "url": "https://developer.apple.com/swift-student-challenge/",
+   "label": "Apple Swift Student Challenge",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Cycle announcement, eligibility page and notify-me sign-up; the next cycle usually opens in February.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "mlh-com-seasons-2027-events",
+   "url": "https://www.mlh.com/seasons/2027/events",
+   "label": "MLH 2027 season events",
+   "kind": "community",
+   "region": "global",
+   "note": "Hackathon list through April 2027; all entries are in-person, mostly North America and Europe, and it grows as events are added.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "omanobserver-om-article-1196097-business-energy-o-green-targ",
+   "url": "https://www.omanobserver.om/article/1196097/business/energy/o-green-targets-200-mw-of-ai-ready-data-centre-capacity-by-2028",
+   "label": "Oman Observer business and energy coverage",
+   "kind": "news",
+   "region": "oman",
+   "note": "Oman AI, data-centre and digital-economy news; check the business section weekly.",
+   "tasks": [
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "decree-om-2026-rd20260050",
+   "url": "https://decree.om/2026/rd20260050/",
+   "label": "Oman Royal Decrees (decree.om)",
+   "kind": "government",
+   "region": "oman",
+   "note": "Text of royal decrees such as 50/2026; useful for policy and zone changes.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events"
+   ]
+  },
+  {
+   "id": "middleeastainews-com-p-oman-to-establish-free-zone-for-ai",
+   "url": "https://www.middleeastainews.com/p/oman-to-establish-free-zone-for-ai",
+   "label": "Middle East AI News",
+   "kind": "news",
+   "region": "gcc",
+   "note": "Gulf and Oman AI policy and infrastructure news, several posts a week.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "gitex-com-gitex-global-2026",
+   "url": "https://www.gitex.com/gitex-global-2026",
+   "label": "GITEX Global 2026 (organiser)",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Official dates and venue for GITEX Global; ticket details sit on visit.gitex.com. Check weekly until visitor prices and any student pass appear.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "expandnorthstar-com",
+   "url": "https://expandnorthstar.com/",
+   "label": "Expand North Star",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Startup and investor show beside GITEX; pre-registration, Founder's Pass and Supernova details. Updates before December.",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "dubaiaifestival-com-register",
+   "url": "https://www.dubaiaifestival.com/register/",
+   "label": "Dubai AI Festival registration",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Pass types and prices for 26-27 Oct 2026; also lists FutureTech startup contests.",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "dubaifintechsummit-com-get-involved",
+   "url": "https://dubaifintechsummit.com/get-involved/",
+   "label": "Dubai FinTech Summit passes",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Free Expo Pass and paid passes for 2-3 Nov 2026; links to FinTech World Cup.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "qatar-websummit-com-tickets-attendees",
+   "url": "https://qatar.websummit.com/tickets/attendees/",
+   "label": "Web Summit Qatar tickets",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Ticket tiers and prices for Jan-Feb 2027; prices change with promotions, so check often. Volunteer page at /volunteers/.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "step-blendapp-ai-tickets",
+   "url": "https://step.blendapp.ai/tickets",
+   "label": "Step Dubai 2027 tickets",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Pass prices including the under-25 Next Gen pass; prices rise at set dates (1 Dec, 6 Jan, 26 Jan).",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "gisec-ae",
+   "url": "https://www.gisec.ae/",
+   "label": "GISEC Global",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Next edition 4-6 May 2027 in Dubai; free-pass link and competition pages (Hack-O-Sphere, Dubai Cyber Challenge).",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "dubaifuture-ae-events",
+   "url": "https://www.dubaifuture.ae/events/",
+   "label": "Dubai Future Foundation events",
+   "kind": "government",
+   "region": "gcc",
+   "note": "Lists Dubai Future Week and Foundation programmes; Dubai Future Forum and later editions not yet dated.",
+   "tasks": [
+    "gcc-events",
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "aieverythingabudhabi-com-home",
+   "url": "https://www.aieverythingabudhabi.com/home",
+   "label": "AI Everything Abu Dhabi",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Shows 2027 date in header and lists hackathons and competitions; check for 2027 programme and tickets.",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "globalaishow-com-abu-dhabi",
+   "url": "https://www.globalaishow.com/abu-dhabi/",
+   "label": "Global AI Show Abu Dhabi",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Dates and free Standard Pass for 18-19 Nov 2026.",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "gdg-community-dev-gdg-abu-dhabi",
+   "url": "https://gdg.community.dev/gdg-abu-dhabi/",
+   "label": "GDG Abu Dhabi events",
+   "kind": "community",
+   "region": "gcc",
+   "note": "Free developer community events including DevFest; also check gdg.community.dev/gdg-dubai/ and gdg-doha.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "otf-om",
+   "url": "https://otf.om/",
+   "label": "OTF Scale | Oman Future Fund",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Idea-stage funding up to OMR 40,000, rolling applications. Check for changes to amount, terms or a deadline. otf.om no longer shows Techween or Wadi.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "omantel-om-en-innovation-labs-accelerator",
+   "url": "https://www.omantel.om/en/innovation-labs/accelerator",
+   "label": "Omantel Accelerator",
+   "kind": "company",
+   "region": "oman",
+   "note": "Current cohort dates, eligibility and benefits. Cohort 9 closes 9 Jan 2027; check weekly for the next intake and the F6S form.",
+   "tasks": [
+    "oman-events",
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "omantel-om-en-innovation-labs-events",
+   "url": "https://www.omantel.om/en/innovation-labs/events",
+   "label": "Omantel Innovation Labs events",
+   "kind": "company",
+   "region": "oman",
+   "note": "Dated bootcamps, hackathons and camps; the community-events page describes the free student workshops. Updated a few times a year.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events"
+   ]
+  },
+  {
+   "id": "menastartupdigest-com-tag-oman",
+   "url": "https://menastartupdigest.com/tag/oman/",
+   "label": "MENA Startup Digest, Oman tag",
+   "kind": "directory",
+   "region": "oman",
+   "note": "Aggregator of Oman accelerator, hackathon and training news with dates in the text. Good for leads only; confirm on organiser pages. Updated several times a week.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events",
+    "oman-funding",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "tra-gov-om-consultation",
+   "url": "https://www.tra.gov.om/consultation",
+   "label": "TRA public consultations",
+   "kind": "government",
+   "region": "oman",
+   "note": "Draft telecom and digital regulations with open and closed status (0 open, 93 closed on 14 Oct 2026). Check for new drafts affecting apps and IoT.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "mtcit-gov-om",
+   "url": "https://www.mtcit.gov.om/",
+   "label": "MTCIT home page",
+   "kind": "government",
+   "region": "oman",
+   "note": "Ministry news, national programmes (AI, cybersecurity, digital economy) and occasional hackathons. Very long page; news appears at the top.",
+   "tasks": [
+    "oman-competitions",
+    "oman-funding",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "ithca-om-training-program",
+   "url": "https://www.ithca.om/training-program",
+   "label": "ITHCA Group training programme",
+   "kind": "company",
+   "region": "oman",
+   "note": "Graduate training scheme and ITHCA Group careers links. Relevant after graduation; updated rarely.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "madayn-om",
+   "url": "https://madayn.om/",
+   "label": "Madayn (Public Establishment for Industrial Estates)",
+   "kind": "government",
+   "region": "oman",
+   "note": "Posts about the Industrial Innovation Academy's Industrial Business Accelerator and industrial city initiatives. Registration for the 2026 cohort closed 12 Aug 2026.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "sharakah-om",
+   "url": "https://www.sharakah.om/",
+   "label": "Sharakah (SME Development Fund)",
+   "kind": "government",
+   "region": "oman",
+   "note": "SME financing from OMR 10,000 to 350,000 and the VC999 incubator news. Business-only; check for new incubator intakes.",
+   "tasks": [
+    "oman-funding",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "admissions-kaust-edu-sa-study-internships",
+   "url": "https://admissions.kaust.edu.sa/study/internships",
+   "label": "KAUST VSRP internships",
+   "kind": "university",
+   "region": "gcc",
+   "note": "Rolling, fully funded research internships for STEM undergraduates in year 3 or above. Project list changes through the year.",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "hultprize-org-register",
+   "url": "https://hultprize.org/register",
+   "label": "Hult Prize registration",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Student team registration for the 2026-27 cycle (teams of 2 to 4). Check for dates, regional rounds and the theme.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "oia-gov-om",
+   "url": "https://www.oia.gov.om/",
+   "label": "Oman Investment Authority",
+   "kind": "government",
+   "region": "oman",
+   "note": "Parent of Future Fund Oman and the Hamat programme. Hamat details were not on the home page; check around December and January.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "ctftime-org-event-list-upcoming",
+   "url": "https://ctftime.org/event/list/upcoming",
+   "label": "CTFtime upcoming events",
+   "kind": "directory",
+   "region": "global",
+   "note": "Lists about 40 upcoming CTFs with dates, format, weight and restrictions; changes daily.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "kaggle-com-competitions",
+   "url": "https://www.kaggle.com/competitions",
+   "label": "Kaggle competitions",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Active competitions with prizes and deadlines; page is script-rendered, so the public competition service data was used. Check weekly.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "devpost-com-hackathons",
+   "url": "https://devpost.com/hackathons",
+   "label": "Devpost hackathons",
+   "kind": "directory",
+   "region": "global",
+   "note": "Open and upcoming online hackathons with prize pools; the page blocks some fetchers, but hackathon pages and rules open directly. Changes daily.",
+   "tasks": [
+    "global-competitions"
+   ]
+  },
+  {
+   "id": "ieeextreme-org",
+   "url": "https://ieeextreme.org/",
+   "label": "IEEEXtreme",
+   "kind": "organizer",
+   "region": "global",
+   "note": "24-hour student programming contest; rules, eligibility and prizes. Check before 31 Oct.",
+   "tasks": [
+    "global-competitions"
+   ]
+  },
+  {
+   "id": "imaginecup-microsoft-com-en-us-category-34",
+   "url": "https://imaginecup.microsoft.com/en-us/category/34",
+   "label": "Imagine Cup 2027",
+   "kind": "company",
+   "region": "global",
+   "note": "Official page says coming soon; watch for registration dates and rules.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "arcprize-org-competitions-2026",
+   "url": "https://arcprize.org/competitions/2026",
+   "label": "ARC Prize 2026",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Tracks, key dates and rules for ARC-AGI-3, ARC-AGI-2 and the paper prize.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "spaceappschallenge-org-2026",
+   "url": "https://www.spaceappschallenge.org/2026/",
+   "label": "NASA Space Apps 2026",
+   "kind": "government",
+   "region": "global",
+   "note": "Dates, registration, teams and challenges; award details were not yet posted.",
+   "tasks": [
+    "global-competitions"
+   ]
+  },
+  {
+   "id": "hultprize-org-how-it-works",
+   "url": "https://www.hultprize.org/how-it-works",
+   "label": "Hult Prize how it works",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Stages and team rules; the 2026-27 application deadline is not stated, so check the register page.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "fellowship-mlh-com",
+   "url": "https://fellowship.mlh.com/",
+   "label": "MLH Fellowship",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Rolling applications for a 12-week remote fellowship; cohort dates are not posted.",
+   "tasks": [
+    "global-events"
+   ]
+  },
+  {
+   "id": "drivendata-org-competitions",
+   "url": "https://www.drivendata.org/competitions/",
+   "label": "DrivenData competitions",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Prize competitions, benchmarks and practice challenges, with time-left indicators. Check weekly.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "mtcit-gov-om-media-4-news-announcements-11-news-85",
+   "url": "https://mtcit.gov.om/media-4/news-announcements-11/news-85",
+   "label": "MTCIT news and announcements",
+   "kind": "government",
+   "region": "oman",
+   "note": "Ministry feed with Makeen, Engineer It with AI, Hadatha and OCPC news; check weekly. Older pages use ?page=N.",
+   "tasks": [
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "mtcit-gov-om-media-4-events-competitions-10",
+   "url": "https://mtcit.gov.om/media-4/events-competitions-10",
+   "label": "MTCIT events and competitions",
+   "kind": "government",
+   "region": "oman",
+   "note": "Lists ministry events and competition pages; the competitions list loads dynamically and showed no entries.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events"
+   ]
+  },
+  {
+   "id": "mtcit-gov-om-community-1-training-jobs-3",
+   "url": "https://mtcit.gov.om/community-1/training-jobs-3",
+   "label": "MTCIT training and jobs",
+   "kind": "government",
+   "region": "oman",
+   "note": "Training programmes, cybersecurity on-the-job training and summer internship link; changes rarely.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "cert-gov-om-event",
+   "url": "https://cert.gov.om/event",
+   "label": "Oman National CERT events",
+   "kind": "government",
+   "region": "oman",
+   "note": "Quarterly list of Hadatha hackathons, forums and accelerators; the best source for the Q4 2026 hackathon.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events",
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "cert-gov-om-news",
+   "url": "https://cert.gov.om/news",
+   "label": "Oman National CERT news",
+   "kind": "government",
+   "region": "oman",
+   "note": "Hadatha news; newest item shown was 15 Dec 2025, so it updates slowly.",
+   "tasks": [
+    "oman-market"
+   ]
+  },
+  {
+   "id": "gov-om-en-w-apply-for-upgrade-program",
+   "url": "https://gov.om/en/w/apply-for-upgrade-program",
+   "label": "Gov.om: UpGrade Program service page",
+   "kind": "government",
+   "region": "oman",
+   "note": "Eligibility, stages and link to the application portal; updated 2 July 2026.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "icpc-global-regionals-finder-ocpc",
+   "url": "https://icpc.global/regionals/finder/OCPC",
+   "label": "ICPC regional finder: OCPC",
+   "kind": "organizer",
+   "region": "global",
+   "note": "Lists the 2026 ICPC Oman Collegiate Programming Contest; details load dynamically and did not render.",
+   "tasks": [
+    "global-competitions"
+   ]
+  },
+  {
+   "id": "cybertalents-com-competitions-oman-national-cybersecurity-ct",
+   "url": "https://cybertalents.com/competitions/oman-national-cybersecurity-ctf-2025-final-round",
+   "label": "CyberTalents: Oman national cybersecurity CTF",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Hosted the 2025 national CTF with Oman National CERT; recheck for a 2026 edition.",
+   "tasks": [
+    "oman-competitions"
+   ]
+  },
+  {
+   "id": "omannews-gov-om",
+   "url": "https://www.omannews.gov.om/",
+   "label": "Oman News Agency",
+   "kind": "news",
+   "region": "oman",
+   "note": "Official state news; daily. Few technology items appeared on the home page.",
+   "tasks": [
+    "oman-market"
+   ]
+  },
+  {
+   "id": "omanobserver-om-scitech",
+   "url": "https://www.omanobserver.om/scitech",
+   "label": "Oman Observer SciTech",
+   "kind": "news",
+   "region": "oman",
+   "note": "Technology section; mostly global items. Education and business pages carry local competition notices.",
+   "tasks": [
+    "oman-competitions"
+   ]
+  },
+  {
+   "id": "muscatdaily-com-category-oman",
+   "url": "https://www.muscatdaily.com/category/oman/",
+   "label": "Muscat Daily Oman news",
+   "kind": "news",
+   "region": "oman",
+   "note": "Daily local news with dated URLs; hackathon and competition announcements appear here.",
+   "tasks": [
+    "oman-competitions",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "omandaily-om",
+   "url": "https://www.omandaily.om/",
+   "label": "Oman Daily (Arabic)",
+   "kind": "news",
+   "region": "oman",
+   "note": "Arabic daily; carries student competition and Scientific Club news.",
+   "tasks": [
+    "oman-competitions",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "techafricanews-com",
+   "url": "https://techafricanews.com/?s=Oman",
+   "label": "TechAfrica News: Oman search results",
+   "kind": "news",
+   "region": "oman",
+   "note": "Dated list of Oman telecom, AI, fintech and cyber announcements, several new items per week; best single feed for Omantel, Otech and bank partnerships.",
+   "tasks": [
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "omanobserver-om-morearticles-business-economy",
+   "url": "https://www.omanobserver.om/morearticles/business/economy",
+   "label": "Oman Observer: Economy section",
+   "kind": "news",
+   "region": "oman",
+   "note": "Latest economy headlines including digital, AI and government platform deals; check weekly.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "omanobserver-om-morearticles-scitech-technology",
+   "url": "https://www.omanobserver.om/morearticles/scitech/technology",
+   "label": "Oman Observer: Technology section",
+   "kind": "news",
+   "region": "oman",
+   "note": "Technology headlines, mostly international with some Omani items; updated several times a week.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "terminal11-om-programmes",
+   "url": "https://terminal11.om/programmes",
+   "label": "Terminal 11 programmes",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Open and closed startup programmes with dates and apply links (Riyada Studio, SI Venture Studio, Station F); needs a rendered browser to read.",
+   "tasks": [
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "tra-gov-om-en",
+   "url": "https://tra.gov.om/En/",
+   "label": "Telecommunications Regulatory Authority (TRA)",
+   "kind": "government",
+   "region": "oman",
+   "note": "Telecom tenders, regulations, market indicators and licensing news; check for spectrum and satellite updates.",
+   "tasks": [
+    "oman-funding",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "timesofoman-com",
+   "url": "https://timesofoman.com/",
+   "label": "Times of Oman",
+   "kind": "news",
+   "region": "oman",
+   "note": "Daily national news including ONA-sourced digital economy and conference reports.",
+   "tasks": [
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "muscatdaily-com",
+   "url": "https://www.muscatdaily.com/",
+   "label": "Muscat Daily",
+   "kind": "news",
+   "region": "oman",
+   "note": "Daily national news with occasional AI and digital policy pieces and opinion columns.",
+   "tasks": [
+    "oman-market"
+   ]
+  },
+  {
+   "id": "gccbusinessnews-com-gcc-business-events-october-2026",
+   "url": "https://www.gccbusinessnews.com/gcc-business-events-october-2026/",
+   "label": "GCC Business News: monthly events roundup",
+   "kind": "news",
+   "region": "gcc",
+   "note": "Monthly list of GCC business and tech events plus Gulf competition announcements; new roundup each month.",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "tradearabia-com-tag-oman-data-park",
+   "url": "https://www.tradearabia.com/tag/Oman-Data-Park",
+   "label": "TradeArabia: Oman Data Park tag",
+   "kind": "news",
+   "region": "oman",
+   "note": "Dated Oman Data Park and Otech partnership news; slow-moving.",
+   "tasks": [
+    "oman-market"
+   ]
+  },
+  {
+   "id": "otech-om",
+   "url": "https://otech.om/",
+   "label": "Otech (Omantel technology arm)",
+   "kind": "company",
+   "region": "oman",
+   "note": "Successor to Oman Data Park; has a Media Room and Marketplace; the page I opened showed navigation only.",
+   "tasks": [
+    "oman-market"
+   ]
+  },
+  {
+   "id": "samenacouncil-org",
+   "url": "https://www.samenacouncil.org/",
+   "label": "SAMENA Telecommunications Council",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Hosts Leaders AXIS and regional telecom events; useful for upcoming telecom and digital infrastructure conferences.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "makeen-gov-om",
+   "url": "https://makeen.gov.om/",
+   "label": "Makeen (MTCIT) programmes portal",
+   "kind": "government",
+   "region": "oman",
+   "note": "Lists ministry programmes, hackathons, drone and AI contests, certification incentives and whether registration is open or closed. Changes when new editions open; check weekly.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events",
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "aiinoman-com-blog",
+   "url": "https://www.aiinoman.com/blog",
+   "label": "AI in Oman blog",
+   "kind": "directory",
+   "region": "oman",
+   "note": "Secondary Oman tech news and monthly event, startup and campus calendars published several times a week. Good for leads only; confirm with organisers (some figures conflict with primary releases).",
+   "tasks": [
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "omantel-om-innovation-labs",
+   "url": "https://www.omantel.om/innovation-labs",
+   "label": "Omantel Innovation Labs",
+   "kind": "company",
+   "region": "oman",
+   "note": "Accelerator cohorts with deadlines, community hackathon, student workshops and mailing list sign-up. Updated per cohort.",
+   "tasks": [
+    "oman-competitions",
+    "oman-funding"
+   ]
+  },
+  {
+   "id": "techoman-om-category-news",
+   "url": "https://techoman.om/category/news/",
+   "label": "TechOman news",
+   "kind": "community",
+   "region": "oman",
+   "note": "National tech community platform launched January 2026 with daily Oman tech news; its Academy and Innovation Campus sections may add events.",
+   "tasks": [
+    "oman-events",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "ooredoo-om-en-press-release",
+   "url": "https://www.ooredoo.om/en/press-release/",
+   "label": "Ooredoo Oman press releases",
+   "kind": "company",
+   "region": "oman",
+   "note": "Sponsor announcements such as the Mulhim hackathon and student programmes; newest items first, several per week.",
+   "tasks": [
+    "oman-competitions",
+    "oman-events",
+    "oman-funding",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "mulhim-om",
+   "url": "https://mulhim.om/",
+   "label": "Mulhim hackathon site",
+   "kind": "organizer",
+   "region": "oman",
+   "note": "Currently says coming soon; will carry the 2026 call, dates and registration when announced.",
+   "tasks": [
+    "oman-competitions",
+    "oman-market"
+   ]
+  },
+  {
+   "id": "gdg-community-dev-gdg-muscat",
+   "url": "https://gdg.community.dev/gdg-muscat/",
+   "label": "GDG Muscat chapter page",
+   "kind": "community",
+   "region": "oman",
+   "note": "Google developer community events including DevFest Oman (last held 20 December 2025). No upcoming events listed on 14 October 2026.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "meetup-com-find",
+   "url": "https://www.meetup.com/find/?location=om--Muscat&source=EVENTS",
+   "label": "Meetup events near Muscat",
+   "kind": "directory",
+   "region": "oman",
+   "note": "Mostly online tech and cyber talks plus social groups; few in-person Muscat tech events. Changes daily.",
+   "tasks": [
+    "oman-events"
+   ]
+  },
+  {
+   "id": "menastartupdigest-com-tag-competition",
+   "url": "https://menastartupdigest.com/tag/competition/",
+   "label": "MENA Startup Digest: competitions and hackathons feed",
+   "kind": "news",
+   "region": "gcc",
+   "note": "Daily news feed of Gulf and Arab hackathons, competitions and open calls; many are startup-only, so check eligibility. Also see /category/opportunities/.",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "cybertalents-com-competitions",
+   "url": "https://cybertalents.com/competitions",
+   "label": "CyberTalents competitions",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Arab-focused CTF platform that runs national and regional CTFs (Qatar, Kuwait, Egypt). Nothing upcoming on 14 Oct 2026, but new ones appear regularly.",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "devpost-com-api-hackathons",
+   "url": "https://devpost.com/api/hackathons?status[]=upcoming&status[]=open&order_by=deadline",
+   "label": "Devpost hackathons API",
+   "kind": "directory",
+   "region": "global",
+   "note": "JSON list of open and upcoming hackathons with prize and dates (the HTML pages return 403 to fetchers). Mostly global online events; no Gulf-hosted ones found.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "lablab-ai-ai-hackathons",
+   "url": "https://lablab.ai/ai-hackathons",
+   "label": "lablab.ai AI hackathons",
+   "kind": "organizer",
+   "region": "global",
+   "note": "AI hackathons including Dubai-linked AI Genesis, AMD and Vultr events. Changes every few weeks.",
+   "tasks": [
+    "global-competitions",
+    "global-events"
+   ]
+  },
+  {
+   "id": "hackforearth-com-current-hackathon",
+   "url": "https://hackforearth.com/current-hackathon/",
+   "label": "Hack for Earth current hackathon",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Organiser of the Ericsson Sustainability Challenge for Gulf students; check for new Gulf editions and updated deadlines.",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "bh-tuwaiq-edu-sa",
+   "url": "https://bh.tuwaiq.edu.sa/",
+   "label": "Black Hat MEA CTF (Tuwaiq Academy)",
+   "kind": "organizer",
+   "region": "gcc",
+   "note": "Official CTF site with the timeline for the world's largest CTF in Riyadh; 2026 registration closed 5 Sep, so watch for the 2027 cycle.",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  },
+  {
+   "id": "hackathon-nyuad-nyu-edu-apply",
+   "url": "https://hackathon.nyuad.nyu.edu/apply/",
+   "label": "NYUAD Hackathon apply page",
+   "kind": "university",
+   "region": "gcc",
+   "note": "States when applications open for the next edition (October 2027) and the event dates.",
+   "tasks": [
+    "gcc-competitions",
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "createapps-ae-en-create-apps-championship",
+   "url": "https://createapps.ae/en/create-apps-championship",
+   "label": "Create Apps Championship (Dubai Chambers)",
+   "kind": "government",
+   "region": "gcc",
+   "note": "Official site for Dubai's app and AI-agent championships; still showing the 2025-26 edition, so check for the AI Agents edition launch.",
+   "tasks": [
+    "gcc-events"
+   ]
+  },
+  {
+   "id": "spaceacademy-hackathons-space-gov-ae",
+   "url": "https://spaceacademy-hackathons.space.gov.ae/",
+   "label": "UAE Space Academy hackathons",
+   "kind": "government",
+   "region": "gcc",
+   "note": "Arab Youth Space Hackathon site open to all 22 Arab countries; the 2026 round is closed, so watch for the next call.",
+   "tasks": [
+    "gcc-competitions"
+   ]
+  }
+ ]
+}

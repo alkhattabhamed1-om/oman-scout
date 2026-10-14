@@ -1,34 +1,154 @@
 [
   {
-    "id": "oman-opportunities",
-    "label": "Oman: events and competitions",
+    "id": "oman-competitions",
+    "label": "Oman: competitions and student programmes",
     "region": "oman",
-    "categories": ["event", "competition"],
-    "maxItems": 24,
-    "focus": "Find upcoming events (conferences, expos, summits, meetups, workshops, career fairs, webinars) and competitions (hackathons, coding contests, CTFs, AI challenges, pitch and startup competitions, olympiads, student programmes with application deadlines) in Oman, in person or online.\n\nPrioritise what a university student can join: university events (SQU, GUtech, UTAS, Middle East College, MCBS, Majan, Dhofar University, Sohar University and others), government-run contests (MTCIT, Ministry of Higher Education, Youth Center, Riyada, Oman National CERT), company-run contests (Omantel, Ooredoo, banks, Oman Data Park, NTG), and the big tech shows (COMEX and the events at OCEC, Knowledge Oasis Muscat and Sultan Qaboos Youth Complex).\n\nAlso check recurring contests whose next edition may have been announced: Oman Collegiate Programming Contest, Oman National Cybersecurity CTF, Engineer It with AI, Student Startup Programme, Techstars Startup Weekend, Global Entrepreneurship Week, Hacktivate CTF, Oman Hackathon."
+    "categories": ["competition"],
+    "maxItems": 25,
+    "focus": "Find upcoming competitions in Oman that a university student can enter: hackathons, coding contests, CTFs, AI challenges, pitch and startup competitions, olympiads, innovation awards and student programmes with application deadlines.\n\nWho runs them: universities and colleges (SQU, GUtech, UTAS and its campuses, Middle East College, MCBS, Majan, Dhofar University, University of Nizwa, Sohar University and others, plus IEEE and ACM student branches); government (MTCIT, Oman National CERT, Ministry of Higher Education, Research and Innovation, ARI, Youth Center, Riyada, Makeen); companies (Omantel, Ooredoo, Vodafone Oman, banks such as NBO and Bank Muscat, PDO, OQ, Oman Data Park, NTG, Huawei, Cisco, Microsoft, Google, AWS, Oracle).\n\nAlso check recurring contests whose next edition may be announced: Oman Collegiate Programming Contest, Oman National Cybersecurity CTF, Hadatha hackathons, Engineer It with AI, UpGrade, Student Startup Programme, Techstars Startup Weekend, Hacktivate CTF, Huawei ICT Competition Oman round, PDO hackathons, COMEX hackathon.",
+    "queries": [
+      "hackathon Oman 2026 university students registration",
+      "Oman hackathon November December 2026",
+      "مسابقة هاكاثون سلطنة عمان 2026 التسجيل",
+      "مسابقة البرمجة طلبة الجامعات سلطنة عمان 2026",
+      "Oman national cybersecurity CTF 2026",
+      "Oman AI competition students 2026 2027 prizes",
+      "Omantel hackathon OR challenge 2026 students",
+      "Huawei ICT Competition Oman 2026",
+      "UpGrade programme Oman next call",
+      "Sultan Qaboos University OR GUtech OR UTAS hackathon 2026",
+      "Riyada OR Makeen competition 2026 youth Oman",
+      "startup weekend OR pitch competition Muscat 2026"
+    ]
+  },
+  {
+    "id": "oman-events",
+    "label": "Oman: events, expos and career fairs",
+    "region": "oman",
+    "categories": ["event"],
+    "maxItems": 22,
+    "focus": "Find upcoming events in Oman between now and mid-2027: technology, AI, cybersecurity, fintech and startup conferences, expos, summits, forums, workshops, meetups, career fairs and entrepreneurship weeks, in person or online.\n\nCheck the OCEC and Knowledge Oasis Muscat calendars, COMEX, Oman Sustainability Week, Global Entrepreneurship Week Oman, Riyada, Injaz Oman, Sharakah, university career days, and communities such as GDG Muscat and AWS user groups on Meetup, Luma and Eventbrite. For each event note the price and whether students get a free or reduced entry.",
+    "queries": [
+      "Oman technology conference 2026 2027 Muscat",
+      "OCEC Muscat events calendar 2026 technology",
+      "Oman AI summit OR expo December 2026",
+      "Muscat tech meetup 2026",
+      "Global Entrepreneurship Week Oman 2026",
+      "COMEX 2027 Oman",
+      "Oman cybersecurity conference 2026",
+      "Oman career fair 2026 graduates technology",
+      "فعاليات تقنية مسقط 2026 مؤتمر معرض",
+      "معرض توظيف سلطنة عمان 2026",
+      "Oman fintech event 2026"
+    ]
+  },
+  {
+    "id": "oman-funding",
+    "label": "Oman: funding, accelerators and training programmes",
+    "region": "oman",
+    "categories": ["funding"],
+    "maxItems": 22,
+    "focus": "Find programmes with applications or calls in Oman: accelerators and incubators, grants, scholarships, training and bootcamps, graduate programmes, regulation and tenders that affect a small software business.\n\nCheck Oman Technology Fund (Techween, Wadi), Numo, Omantel Innovation Labs, Future Fund Oman, Oman Development Bank, Madayn and the National Business Centre, the Industrial Innovation Academy, MTCIT digital-skills programmes, Oracle and Microsoft skills initiatives, ITHCA, banks' startup hubs, TRA and ITA. For every item say plainly who may apply: students, startups, companies or graduates.",
+    "queries": [
+      "Oman accelerator applications open 2026 startups",
+      "Oman Technology Fund Techween Wadi 2026 intake",
+      "Omantel Innovation Labs cohort applications",
+      "Numo accelerator next cohort",
+      "Oman digital skills programme MTCIT 2026 training applications",
+      "Oman graduate programme technology 2026 applications",
+      "TRA Oman regulation 2026 software permit",
+      "برنامج تدريب خريجين تقنية المعلومات سلطنة عمان 2026",
+      "Oman scholarship technology students 2026",
+      "Future Fund Oman startup funding apply"
+    ]
   },
   {
     "id": "oman-market",
-    "label": "Oman: competitors, government and funding",
+    "label": "Oman: competitors, infrastructure and market moves",
     "region": "oman",
-    "categories": ["competitor", "funding"],
-    "maxItems": 24,
-    "focus": "Find (a) competitor moves in Oman: planned launches, projects, partnerships, data-centre, cloud and AI infrastructure, state-backed tech ventures, new entrants and large tenders by firms active in tech, software and AI; and (b) government and funding items: programmes, accelerators, grants, funding calls, regulations about to take effect, national strategies and tenders.\n\nCheck MTCIT, ITA, TRA, Riyada, Oman Technology Fund, Future Fund Oman, Oman Development Bank, Oman Investment Authority (Furas), Omantel Innovation Labs, Numo, Madayn and the National Business Centre, Injaz Oman, Sharakah and the national AI and digital roadmaps.\n\nFor funding items always say who may apply. For competitor items set eligibility to na and explain in why what it means for a software business in Oman."
+    "categories": ["competitor"],
+    "maxItems": 20,
+    "focus": "Find upcoming launches, projects, partnerships and infrastructure by firms active in technology, software and AI in Oman: Omantel (Otech, AI centre), Ooredoo, Vodafone Oman, Oman Data Park, O-Green, OQ digital, hyperscaler regions (Microsoft, AWS, Google, Oracle), the AI Special Economic Zone, Terminal 11, XCyber, banks' digital platforms and large government IT tenders.\n\nSet eligibility to na unless there is something to apply for, and in the why field say what it means for a software business or a graduate looking for work in Oman.",
+    "queries": [
+      "Oman data centre AI 2026 2027 announcement",
+      "Omantel launch 2026 OR 2027 cloud AI",
+      "Ooredoo Oman new service 2026",
+      "Oman government digital platform launch 2027",
+      "Oman AI special economic zone construction",
+      "hyperscaler cloud region Oman Microsoft OR AWS OR Google OR Oracle",
+      "مشروع مركز بيانات سلطنة عمان 2026",
+      "Oman tender IT services 2026 award"
+    ]
   },
   {
-    "id": "gcc",
-    "label": "GCC",
+    "id": "gcc-competitions",
+    "label": "GCC: competitions and programmes open to Omani students",
     "region": "gcc",
-    "categories": ["event", "competition", "competitor", "funding"],
+    "categories": ["competition", "funding"],
     "maxItems": 22,
-    "focus": "Cover GCC countries other than Oman (UAE, Saudi Arabia, Qatar, Bahrain, Kuwait): events, competitions, competitor moves and funding or programmes that matter to a student or a software business in Oman.\n\nThe person only travels inside the GCC for ordinary events, so prefer public, reasonably priced events. Include flagship shows (GITEX, LEAP, FII, Dubai Future Week, Web Summit Qatar, BITEX and similar) but mark invitation-only ones check or ineligible. Include student-eligible competitions and hackathons run by GCC universities and agencies that accept participants from other Arab countries or online. Include accelerator and grant programmes only if people outside the country can apply."
+    "focus": "Find hackathons, contests, CTFs, challenges and student programmes in the UAE, Saudi Arabia, Qatar, Bahrain and Kuwait that accept participants from other Arab countries or online. Examples: Dubai Future Foundation, Dubai AI Week, MBZUAI, Khalifa University, NYUAD, Hub71, GITEX side competitions, SDAIA, the Hajj Hackathon, Tuwaiq Academy, KAUST, Qatar's QCRI and HBKU, Web Summit Qatar, Bahrain's Tamkeen.\n\nCheck each one's rules for non-nationals and for undergraduates, and say so in the eligibility note. Online rounds and low-cost trips inside the GCC rank highest.",
+    "queries": [
+      "hackathon UAE November 2026 university students open to international",
+      "Dubai AI hackathon 2026 students",
+      "Saudi hackathon 2026 SDAIA OR Tuwaiq OR KAUST students",
+      "Qatar hackathon 2026 students Doha",
+      "Bahrain hackathon 2026",
+      "GCC student competition AI 2026 2027",
+      "هاكاثون الإمارات 2026 طلبة",
+      "هاكاثون السعودية 2026 تسجيل"
+    ]
   },
   {
-    "id": "global",
-    "label": "Global",
+    "id": "gcc-events",
+    "label": "GCC: conferences and company moves",
+    "region": "gcc",
+    "categories": ["event", "competitor"],
+    "maxItems": 20,
+    "focus": "Find technology, AI, cybersecurity, fintech and startup conferences and expos in the GCC between now and mid-2027 that an ordinary student can attend: GITEX Global, LEAP, FII, Dubai AI Festival, Dubai Future Week, Web Summit Qatar, BITEX, Black Hat MEA and similar. Note prices and student passes and mark invitation-only events as check or ineligible.\n\nAlso list big company moves in the Gulf that touch Oman or software jobs (cloud regions, data centres, regional headquarters, hiring drives).",
+    "queries": [
+      "GITEX Global 2026 student tickets",
+      "LEAP 2027 Riyadh dates",
+      "Dubai AI Festival 2026",
+      "GCC technology conference 2027 Doha OR Manama OR Riyadh OR Abu Dhabi",
+      "Black Hat MEA 2026",
+      "Gulf cloud region launch 2026 2027 data centre",
+      "مؤتمر تقني الخليج 2027"
+    ]
+  },
+  {
+    "id": "global-competitions",
+    "label": "Global: online competitions and programmes for students",
     "region": "global",
-    "categories": ["event", "competition", "competitor", "funding"],
-    "maxItems": 22,
-    "focus": "Cover the rest of the world with three kinds of item.\n\n(1) Online competitions, hackathons, challenges and programmes open to students anywhere, including Omani students: Microsoft Imagine Cup, Google Solution Challenge, Google Summer of Code, MLH hackathons, Devpost hackathons, Kaggle, ICPC and ACPC, Hack Club, student programmes from Meta, OpenAI, Anthropic and Google, and UN or SDG challenges.\n\n(2) Major global tech conferences that matter to the Omani market (Microsoft Ignite, AWS re:Invent, Google Cloud Next, Oracle AI World, Web Summit, MWC). Mark in-person ones travel far, and online or hybrid ones online.\n\n(3) Competitor moves by global tech and AI companies that touch Oman or the Gulf: data centres, cloud regions, partnerships, product launches, hiring and government agreements.\n\nDo not list general world tech news with no Oman or student relevance."
+    "categories": ["competition", "funding"],
+    "maxItems": 25,
+    "focus": "Find contests and programmes any student can join online or apply to from Oman: Kaggle competitions, ICPC and ACPC, IEEEXtreme, Microsoft Imagine Cup, Google Solution Challenge, Google Summer of Code, MLH hackathons and fellowship, Devpost hackathons, CTFtime major CTFs in the next three months, Hack The Box University CTF, Advent of Code 2026, Meta Hacker Cup, GitHub Campus Experts, Outreachy, and student programmes or internships from large technology companies with application dates.\n\nPrefer those with prizes, recognition or strong portfolio value and open dates in the next six months. Say whether teams or solo entries are allowed and whether Omani students are eligible.",
+    "queries": [
+      "hackathon online students November 2026 prizes",
+      "Kaggle competition deadline December 2026",
+      "Google Summer of Code 2027 timeline",
+      "Imagine Cup 2027 registration",
+      "IEEEXtreme 2026 registration",
+      "CTFtime upcoming CTF November 2026",
+      "Advent of Code 2026",
+      "Major League Hacking season 2027 online hackathons",
+      "student internship application deadline 2027 software engineering",
+      "AI challenge university students 2026 worldwide eligible"
+    ]
+  },
+  {
+    "id": "global-events",
+    "label": "Global: conferences with online access and vendor moves",
+    "region": "global",
+    "categories": ["event", "competitor"],
+    "maxItems": 20,
+    "focus": "Find major global technology conferences between now and mid-2027 that matter to the Omani market or offer free online access: Microsoft Ignite, AWS re:Invent, Google Cloud Next 2027, Google I/O 2027, Oracle AI World, NVIDIA GTC 2027, Web Summit Lisbon, MWC Barcelona 2027 and similar. Mark in-person ones travel far and online or hybrid ones online.\n\nAlso list vendor and big-tech moves that touch Oman or the Gulf: data centres, cloud regions, partnerships, government agreements. Skip general world technology news with no Oman, Gulf or student relevance.",
+    "queries": [
+      "NVIDIA GTC 2027 dates online free",
+      "Google Cloud Next 2027 dates",
+      "Microsoft Ignite 2026 online registration",
+      "MWC Barcelona 2027 dates",
+      "big tech Gulf Oman partnership 2026 data centre cloud region",
+      "global developer conference 2027 free virtual"
+    ]
   }
 ]

@@ -29,7 +29,8 @@ jobs:
       - name: Assemble the site
         run: |
           mkdir -p _site
-          cp -r index.html assets data _site/
+          cp -r index.html manifest.webmanifest sw.js assets data _site/
+          sed -i "s/__BUILD__/${GITHUB_SHA::10}/" _site/sw.js
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v5
         with:

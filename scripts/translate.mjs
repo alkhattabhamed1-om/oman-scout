@@ -17,8 +17,8 @@ const schema = {
     translations: {
       type: 'array',
       items: {
-        type: 'object', additionalProperties: false, required: ['id', 'title', 'summary', 'why', 'eligibilityNote'],
-        properties: { id: { type: 'string' }, title: { type: 'string' }, summary: { type: 'string' }, why: { type: 'string' }, eligibilityNote: { type: 'string' } }
+        type: 'object', additionalProperties: false, required: ['id', 'title', 'summary', 'why', 'eligibilityNote', 'fitNote'],
+        properties: { id: { type: 'string' }, title: { type: 'string' }, summary: { type: 'string' }, why: { type: 'string' }, eligibilityNote: { type: 'string' }, fitNote: { type: 'string' } }
       }
     }
   }
@@ -34,7 +34,7 @@ const instructions = [
 let done = 0;
 for (let i = 0; i < todo.length; i += 10) {
   const batch = todo.slice(i, i + 10);
-  const payload = batch.map(it => ({ id: it.id, title: it.title, summary: it.summary, why: it.why, eligibilityNote: it.eligibilityNote || '' }));
+  const payload = batch.map(it => ({ id: it.id, title: it.title, summary: it.summary, why: it.why, eligibilityNote: it.eligibilityNote || '', fitNote: it.fitNote || '' }));
   const prompt = `${instructions}\n\nItems (JSON):\n${JSON.stringify(payload, null, 1)}`;
   try {
     const res = await runClaude({ prompt, schema, model, maxTurns: 4, tools: '', timeoutMs: 10 * 60 * 1000 });
@@ -43,7 +43,7 @@ for (let i = 0; i < todo.length; i += 10) {
     for (const tr of list) {
       const it = batch.find(x => x.id === tr.id);
       if (!it || !tr.title || !tr.summary) continue;
-      it.ar = { title: String(tr.title).trim(), summary: String(tr.summary).trim(), why: String(tr.why || '').trim(), eligibilityNote: String(tr.eligibilityNote || '').trim() };
+      it.ar = { title: String(tr.title).trim(), summary: String(tr.summary).trim(), why: String(tr.why || '').trim(), eligibilityNote: String(tr.eligibilityNote || '').trim(), fitNote: String(tr.fitNote || '').trim() };
       it.arHash = textHash(it);
       done++;
     }
@@ -52,5 +52,6 @@ for (let i = 0; i < todo.length; i += 10) {
     console.warn(`Batch ${i / 10 + 1} failed: ${e.message}`);
   }
 }
+data.stages = { ...(data.stages || {}), translate: done === todo.length ? 'ok' : done ? 'partial' : 'failed' };
 writeJson(dataPath, data);
 console.log(`Translated ${done} of ${todo.length} items.`);

@@ -1,0 +1,1873 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Oman Scout//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oman Scout
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:create-ai-agents-championship-2026-27-dubai-07032-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Create AI Agents Championship 2026-27 (Dubai)
+LOCATION:Dubai\, UAE (entry by submission)
+DESCRIPTION:Dubai's global competition to turn AI agents into real products
+ \, in four categories. A Digital Academy launches in November\; entrants s
+ ubmit a prototype\, pitch deck and demo video by December 2026.\nEligibili
+ ty: Open to individuals and teams worldwide with no minimum age. The Youth
+  category is for under-21s\, so a 21-24 student would enter another catego
+ ry.\nDates are approximate.\nRegistration closes in December 2026 (exact d
+ ay not published). Digital Academy launches in November. Official Create A
+ pps site still shows the previous edition.\nSource: https://fastcompanyme.
+ com/news/dubai-launches-global-push-to-turn-ai-agents-into-real-world-prod
+ ucts/
+URL:https://fastcompanyme.com/news/dubai-launches-global-push-to-turn-ai-ag
+ ents-into-real-world-products/
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nasa-space-apps-challenge-2026-d076d-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:NASA Space Apps Challenge 2026
+LOCATION:Local events or virtual universal event
+DESCRIPTION:NASA's two-day global hackathon on open space-agency data. The 
+ 2026 theme is The Next Frontier\, with 14 challenges. Join a local event o
+ r the virtual universal event\; teams of up to six. Submissions close 15 N
+ ovember.\nEligibility: All ages\, skill levels and professional background
+ s welcome. Create a Space Apps account\, register\, and pick a local or vi
+ rtual event\; up to six per team.\nRegistration stays open until the hacka
+ thon closes on 15 November\; project submissions open 14 Nov 9:00 AM and c
+ lose 15 Nov 11:59 PM local time. The team step opens 17 Sep. The local-eve
+ nts page showed no listings when fetched\, so no Oman…\nApply: https://w
+ ww.spaceappschallenge.org/2026/
+URL:https://www.spaceappschallenge.org/2026/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nasa-space-apps-challenge-2026-d076d-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Deadline: NASA Space Apps Challenge 2026
+LOCATION:Local events or virtual universal event
+DESCRIPTION:NASA's two-day global hackathon on open space-agency data. The 
+ 2026 theme is The Next Frontier\, with 14 challenges. Join a local event o
+ r the virtual universal event\; teams of up to six. Submissions close 15 N
+ ovember.\nEligibility: All ages\, skill levels and professional background
+ s welcome. Create a Space Apps account\, register\, and pick a local or vi
+ rtual event\; up to six per team.\nRegistration stays open until the hacka
+ thon closes on 15 November\; project submissions open 14 Nov 9:00 AM and c
+ lose 15 Nov 11:59 PM local time. The team step opens 17 Sep. The local-eve
+ nts page showed no listings when fetched\, so no Oman…\nApply: https://w
+ ww.spaceappschallenge.org/2026/
+URL:https://www.spaceappschallenge.org/2026/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NASA Space Apps Challenge 2026
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NASA Space Apps Challenge 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ericsson-sustainability-challenge-gulf-2026-hack-for-ear-25d40-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261106
+SUMMARY:Ericsson Sustainability Challenge\, Gulf 2026 (Hack for Earth)
+LOCATION:Online (Gulf-wide)\, award ceremony in Dubai
+DESCRIPTION:Four-day online hackathon by Hack for Earth and Ericsson on AI\
+ , connectivity and the UN Global Goals. Teams submit a pitch deck and a 3-
+ minute video\; winners present at GITEX Global and join an accelerator.\nE
+ ligibility: Students and young innovators aged 18+ in the UAE\, Qatar\, Om
+ an\, Kuwait or Bahrain\; teams of 1 to 10\, and solo registration is allow
+ ed.\nHack runs 2-5 Nov 2026\, fully online. Registration deadline and subm
+ ission deadline are not published. Award ceremony at GITEX Global in Decem
+ ber.\nApply: https://ericsson.hackforearth.com/register
+URL:https://ericsson.hackforearth.com/register
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nebius-x-nvidia-global-ai-hackathon-2026-44fc6-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20261031
+SUMMARY:Nebius x NVIDIA Global AI Hackathon 2026
+LOCATION:Online
+DESCRIPTION:Global online hackathon to build AI systems with NVIDIA open mo
+ dels on Nebius infrastructure. Tracks include coding and agentic engineeri
+ ng\; beginners welcome\; individuals and teams may enter.\nEligibility: Op
+ en to individuals\, teams and organisations above the age of majority in t
+ heir country of residence\, except sanctioned countries. Oman is not exclu
+ ded.\nDeadline 30 Oct 2026 10:00 PDT.\nApply: https://nebiusglobalaihackat
+ hon.devpost.com/
+URL:https://nebiusglobalaihackathon.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nebius-x-nvidia-global-ai-hackathon-2026-44fc6-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline: Nebius x NVIDIA Global AI Hackathon 2026
+LOCATION:Online
+DESCRIPTION:Global online hackathon to build AI systems with NVIDIA open mo
+ dels on Nebius infrastructure. Tracks include coding and agentic engineeri
+ ng\; beginners welcome\; individuals and teams may enter.\nEligibility: Op
+ en to individuals\, teams and organisations above the age of majority in t
+ heir country of residence\, except sanctioned countries. Oman is not exclu
+ ded.\nDeadline 30 Oct 2026 10:00 PDT.\nApply: https://nebiusglobalaihackat
+ hon.devpost.com/
+URL:https://nebiusglobalaihackathon.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Nebius x NVIDIA Global AI Hackathon 2026
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Nebius x NVIDIA Global AI Hackathon 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:build-ship-shape-amazon-developer-hackathon-c3739-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20261024
+SUMMARY:Build\, Ship\, Shape: Amazon Developer Hackathon
+LOCATION:Online
+DESCRIPTION:Global online hackathon to build for Fire TV\, Alexa+\, Ring an
+ d Bee devices\, with separate tracks per product. $138\,000 in cash plus A
+ WS credits and features on Amazon channels.\nEligibility: Individuals and 
+ teams at the age of majority in their country. Excluded only sanctioned or
+  restricted places such as Brazil\, Quebec\, Russia\, Cuba\, Iran and Nort
+ h Korea.\nSubmissions close 23 Oct 2026 12:00 PT\; winners around 3 Dec 20
+ 26.\nApply: https://amazonappdev2026.devpost.com/
+URL:https://amazonappdev2026.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:build-ship-shape-amazon-developer-hackathon-c3739-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deadline: Build\, Ship\, Shape: Amazon Developer Hackathon
+LOCATION:Online
+DESCRIPTION:Global online hackathon to build for Fire TV\, Alexa+\, Ring an
+ d Bee devices\, with separate tracks per product. $138\,000 in cash plus A
+ WS credits and features on Amazon channels.\nEligibility: Individuals and 
+ teams at the age of majority in their country. Excluded only sanctioned or
+  restricted places such as Brazil\, Quebec\, Russia\, Cuba\, Iran and Nort
+ h Korea.\nSubmissions close 23 Oct 2026 12:00 PT\; winners around 3 Dec 20
+ 26.\nApply: https://amazonappdev2026.devpost.com/
+URL:https://amazonappdev2026.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Build\, Ship\, Shape: Amazon Developer Hackathon
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Build\, Ship\, Shape: Amazon Developer Hackathon
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hadatha-sectoral-hackathon-2026-q4-edition-8eb42-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270101
+SUMMARY:Hadatha Sectoral Hackathon 2026 (Q4 edition)
+LOCATION:Muscat (2025 edition at Novotel Muscat\; 2026 venue not announced)
+DESCRIPTION:National cybersecurity hackathon from Oman's National Cybersecu
+ rity Center (MTCIT) under the Hadatha programme\, building solutions for v
+ ital sectors. Listed for Q4 2026 with no dates yet\; the Dec 2025 telecom 
+ edition drew 142 registrants in 46 teams.\nEligibility: Official listing t
+ argets developers\, cybersecurity experts and entrepreneurs. The 2025 edit
+ ion was open to anyone interested\, in teams of 2-4\, with no age or natio
+ nality limit stated. 2026 rules unpublished.\nDates are approximate.\ncert
+ .gov.om/event lists it for Q4 2026 with no exact dates\; registration is o
+ nly an email-notify form until confirmed. Last edition: registration 23 No
+ v-4 Dec 2025\, event 16 Dec 2025.\nSource: https://cert.gov.om/event
+URL:https://cert.gov.om/event
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paypal-ai-hackathon-2026-0ddaa-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261113
+SUMMARY:PayPal AI Hackathon 2026
+LOCATION:Online
+DESCRIPTION:Global online hackathon to build an agent\, app or payment expe
+ rience that meaningfully uses both PayPal and AI. No fixed tracks or probl
+ em statements\; students and solo builders are welcome.\nEligibility: Open
+  to individuals and teams above the age of majority in their country of re
+ sidence\, except sanctioned countries. Oman is not excluded.\nDeadline 12 
+ Nov 2026 12:00 PST.\nApply: https://paypalaihackathon.devpost.com/
+URL:https://paypalaihackathon.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paypal-ai-hackathon-2026-0ddaa-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Deadline: PayPal AI Hackathon 2026
+LOCATION:Online
+DESCRIPTION:Global online hackathon to build an agent\, app or payment expe
+ rience that meaningfully uses both PayPal and AI. No fixed tracks or probl
+ em statements\; students and solo builders are welcome.\nEligibility: Open
+  to individuals and teams above the age of majority in their country of re
+ sidence\, except sanctioned countries. Oman is not excluded.\nDeadline 12 
+ Nov 2026 12:00 PST.\nApply: https://paypalaihackathon.devpost.com/
+URL:https://paypalaihackathon.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PayPal AI Hackathon 2026
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PayPal AI Hackathon 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-genesis-2026-lablab-ai-culminating-at-function1-dubai-d99f3-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261104
+SUMMARY:AI Genesis 2026 (lablab.ai\, culminating at /function1 Dubai)
+LOCATION:Online\, with an invite-only on-site build day in Dubai
+DESCRIPTION:Hybrid AI hackathon by lablab.ai ending at the /function1 AI co
+ nference in Dubai. Teams pick a partner technology and build solo or toget
+ her\; an on-site Dubai build day is by invitation only and travel is not p
+ aid.\nEligibility: Global hackathon open to online participants\, solo or 
+ in teams. The on-site Dubai build day is by invitation and travel is not c
+ overed.\nPage text says dates TBA\, but its schedule data lists kick-off 2
+ 6 Oct\, on-site Dubai build day 2 Nov (invited participants) and live pitc
+ hing 3 Nov. Prizes TBA.\nApply: https://lablab.ai/ai-hackathons/ai-genesis
+ -2026
+URL:https://lablab.ai/ai-hackathons/ai-genesis-2026
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:securinets-ctf-quals-2026-tunisia-mena-finals-spots-6d203-start@oman-sc
+ out
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Securinets CTF Quals 2026 (Tunisia\, MENA finals spots)
+LOCATION:Online\; finals at INSAT\, Tunis
+DESCRIPTION:36-hour online jeopardy CTF by Securinets INSAT. The top 10 int
+ ernational and top 10 MENA teams reach the onsite finals in Tunis on 12-13
+  December\; flights and hotel are covered for the top two international te
+ ams.\nEligibility: Online qualifiers are open to teams from any country\; 
+ the finals have a separate MENA quota. Team size limits are not stated on 
+ the pages.\nRuns 17 Oct 09:00 UTC (13:00 Muscat) to 18 Oct 21:00 UTC. Regi
+ stration deadline not stated. Finals 12-13 Dec 2026 in Tunis.\nApply: http
+ s://quals.securinets.tn/
+URL:https://quals.securinets.tn/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:microsoft-imagine-cup-2027-b77d3-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Deadline: Microsoft Imagine Cup 2027
+LOCATION:Online entry\; semifinal and world final locations not announced
+DESCRIPTION:Microsoft's global student startup contest. Teams of 1-4 studen
+ ts build a project\; spring 2027 semifinals and a May 2027 world final are
+  reported by a third party. Registered teams get up to US$5\,000 Azure cre
+ dits.\nEligibility: Enrolled students at an accredited institution\, age 1
+ 8+ per 2026 FAQ and Internshala\; no company required. Up to four per team
+ \, each registers individually.\nMicrosoft's 2027 pages say coming soon an
+ d give no dates. The 8 January 2027 deadline\, late-2026 registration open
+ ing\, spring 2027 semifinals and May 2027 world final come only from Inter
+ nshala.\nApply: https://imaginecup.microsoft.com/en-us/category/34
+URL:https://imaginecup.microsoft.com/en-us/category/34
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Microsoft Imagine Cup 2027
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Microsoft Imagine Cup 2027
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qloo-agentic-hackathon-2026-d4183-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261031
+SUMMARY:Qloo Agentic Hackathon 2026
+LOCATION:Online
+DESCRIPTION:Online hackathon to build agentic tools or agent-powered apps u
+ sing Qloo's taste-graph API (250M+ entities) so AI agents recommend with c
+ ultural grounding. Individuals and teams may enter\; a bonus challenge is 
+ open.\nEligibility: Open to participants above the age of majority in thei
+ r country of residence\, in all countries except standard sanctioned excep
+ tions.\nDeadline 30 Oct 2026 23:45 EDT.\nApply: https://qloo.devpost.com/
+URL:https://qloo.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:qloo-agentic-hackathon-2026-d4183-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline: Qloo Agentic Hackathon 2026
+LOCATION:Online
+DESCRIPTION:Online hackathon to build agentic tools or agent-powered apps u
+ sing Qloo's taste-graph API (250M+ entities) so AI agents recommend with c
+ ultural grounding. Individuals and teams may enter\; a bonus challenge is 
+ open.\nEligibility: Open to participants above the age of majority in thei
+ r country of residence\, in all countries except standard sanctioned excep
+ tions.\nDeadline 30 Oct 2026 23:45 EDT.\nApply: https://qloo.devpost.com/
+URL:https://qloo.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Qloo Agentic Hackathon 2026
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Qloo Agentic Hackathon 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:google-the-gemma-4-developer-agent-competition-kaggle-66a22-start@oman-
+ scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20261203
+SUMMARY:Google - The Gemma 4 Developer Agent Competition (Kaggle)
+LOCATION:Online (Kaggle)
+DESCRIPTION:Kaggle competition hosted by Google DeepMind to advance autonom
+ ous coding agents. Entries are ranked on a leaderboard and the top three s
+ hare $65\,000. More than 2\,700 teams have already joined.\nEligibility: I
+ ndividuals and teams of up to 5. Kaggle requires identity verification\; I
+  could not read the rules page\, so age and country limits are unconfirmed
+ .\nNew entrants and team mergers close 25 Nov 2026\; final submissions 2 D
+ ec 2026 (Kaggle competition data).\nApply: https://www.kaggle.com/competit
+ ions/gemma-4-developer-agent
+URL:https://www.kaggle.com/competitions/gemma-4-developer-agent
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:google-the-gemma-4-developer-agent-competition-kaggle-66a22-deadline@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Deadline: Google - The Gemma 4 Developer Agent Competition (Kaggle)
+LOCATION:Online (Kaggle)
+DESCRIPTION:Kaggle competition hosted by Google DeepMind to advance autonom
+ ous coding agents. Entries are ranked on a leaderboard and the top three s
+ hare $65\,000. More than 2\,700 teams have already joined.\nEligibility: I
+ ndividuals and teams of up to 5. Kaggle requires identity verification\; I
+  could not read the rules page\, so age and country limits are unconfirmed
+ .\nNew entrants and team mergers close 25 Nov 2026\; final submissions 2 D
+ ec 2026 (Kaggle competition data).\nApply: https://www.kaggle.com/competit
+ ions/gemma-4-developer-agent
+URL:https://www.kaggle.com/competitions/gemma-4-developer-agent
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Google - The Gemma 4 Developer Agent Competition (Kag
+ gle)
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Google - The Gemma 4 Developer Agent Competition (Kag
+ gle)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:life-after-code-gitlab-transcend-hackathon-9a8f4-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261028
+SUMMARY:Life After Code - GitLab Transcend Hackathon
+LOCATION:Online
+DESCRIPTION:Online hackathon to build agents and flows on GitLab Duo Agent 
+ Platform that automate DevSecOps steps after code is written\, such as rev
+ iew\, security scanning\, testing and deployment.\nEligibility: Age of maj
+ ority where you live. Excluded: Brazil\, China\, Crimea\, Cuba\, Iran\, No
+ rth Korea\, Russia\, Syria\, Quebec and occupied regions listed\; Oman is 
+ not excluded.\nDeadline 27 Oct 2026 13:00 UTC. Path B projects must be dep
+ loyed on or after 5 Oct.\nApply: https://gitlab-transcend.devpost.com/
+URL:https://gitlab-transcend.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:life-after-code-gitlab-transcend-hackathon-9a8f4-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deadline: Life After Code - GitLab Transcend Hackathon
+LOCATION:Online
+DESCRIPTION:Online hackathon to build agents and flows on GitLab Duo Agent 
+ Platform that automate DevSecOps steps after code is written\, such as rev
+ iew\, security scanning\, testing and deployment.\nEligibility: Age of maj
+ ority where you live. Excluded: Brazil\, China\, Crimea\, Cuba\, Iran\, No
+ rth Korea\, Russia\, Syria\, Quebec and occupied regions listed\; Oman is 
+ not excluded.\nDeadline 27 Oct 2026 13:00 UTC. Path B projects must be dep
+ loyed on or after 5 Oct.\nApply: https://gitlab-transcend.devpost.com/
+URL:https://gitlab-transcend.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Life After Code - GitLab Transcend Hackathon
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Life After Code - GitLab Transcend Hackathon
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ieeextreme-20-0-global-programming-competition-a9a5f-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:IEEEXtreme 20.0 Global Programming Competition
+LOCATION:Online (CS Academy platform)
+DESCRIPTION:A 24-hour global team programming contest run by IEEE. Teams of
+  up to three solve algorithm tasks on the CS Academy platform\; some tasks
+  lock the workspace and ban AI use.\nEligibility: Needs IEEE Student membe
+ rship\, age over 18\, and an IEEE member as proctor. Teams of 1-3 student 
+ members\; no fee is stated.\n24-hour contest on 31 Oct 2026. The site show
+ s the registration deadline only as a countdown. Code library upload is du
+ e 29 Oct 2026 23:59 UTC.\nApply: https://ieeextreme.org/
+URL:https://ieeextreme.org/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:opencv-ai-competition-2026-powered-by-aws-a26d7-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20261027
+SUMMARY:OpenCV AI Competition 2026\, powered by AWS
+LOCATION:Online
+DESCRIPTION:Build vision systems with OpenCV 5 and a meaningful AWS compone
+ nt over a two-month online build. Optional $1\,000 awards for Best Use of 
+ COOL and Agentic Vision\; 50 teams get $150 cloud grants.\nEligibility: Op
+ en to participants above the age of majority in their country of residence
+ \, in all countries except standard sanctioned exceptions.\nFinal projects
+  due 26 Oct 2026 23:59 PT.\nApply: https://opencv26.devpost.com/
+URL:https://opencv26.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:opencv-ai-competition-2026-powered-by-aws-a26d7-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Deadline: OpenCV AI Competition 2026\, powered by AWS
+LOCATION:Online
+DESCRIPTION:Build vision systems with OpenCV 5 and a meaningful AWS compone
+ nt over a two-month online build. Optional $1\,000 awards for Best Use of 
+ COOL and Agentic Vision\; 50 teams get $150 cloud grants.\nEligibility: Op
+ en to participants above the age of majority in their country of residence
+ \, in all countries except standard sanctioned exceptions.\nFinal projects
+  due 26 Oct 2026 23:59 PT.\nApply: https://opencv26.devpost.com/
+URL:https://opencv26.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OpenCV AI Competition 2026\, powered by AWS
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OpenCV AI Competition 2026\, powered by AWS
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grc-and-cybersecurity-from-governance-to-practice-oman-s-d43af-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:GRC and Cybersecurity: From Governance to Practice (Oman Startup Hu
+ b)
+LOCATION:Muscat Grand Mall\, Terminal 11 (3rd floor)\, Muscat
+DESCRIPTION:Evening session by Oman Startup Hub at Terminal 11\, Muscat Gra
+ nd Mall\, on turning governance\, risk and compliance rules into cybersecu
+ rity practice: risk assessment\, policies\, controls and compliance monito
+ ring.\nEligibility: No audience limit or fee is stated. The event page's r
+ egistration form asks age\, residency\, qualification and role in the star
+ tup ecosystem.\n5:30 pm Muscat time\, per the events listing\; the event's
+  own page shows only the date.\nApply: https://omanstartuphub.om/events/gr
+ c-and-cybersecurity-from-governance-to-practice
+URL:https://omanstartuphub.om/events/grc-and-cybersecurity-from-governance-
+ to-practice
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:comex-2027-global-technology-show-e89cd-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270205
+SUMMARY:COMEX 2027 (Global Technology Show)
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+DESCRIPTION:Oman's flagship tech show at OCEC\, Muscat\, 1-4 Feb 2027\, wit
+ h talks\, workshops\, a career counselling zone for students and graduates
+  and a hackathon (solo or team\, cash rewards). Visitor registration opens
+  closer to the event.\nEligibility: Students and graduates are named visit
+ ors\; hackathon open to developers\, engineers and designers\, solo or tea
+ m. Ticket price and student access not published\; hackathon sign-up route
+  unclear.\nOrganiser site shows 1-4 Feb 2027\, 10:00-21:00. A listing show
+ s no 2026 edition (last held 8-11 Sep 2025). The organiser pages I opened 
+ do not mention a move from September 2026\, so that is unconfirmed\; dates
+  are subject to change.\nSource: https://www.comex-global.com/
+URL:https://www.comex-global.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:step-dubai-2027-81fba-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270205
+SUMMARY:Step Dubai 2027
+LOCATION:Dubai Internet City Amphitheatre\, Dubai\, UAE
+DESCRIPTION:Two-day MENA tech and startup festival at Dubai Internet City w
+ ith talks\, expo and investor meetings\, plus a live pitch contest for sta
+ rtups. A Next Gen pass is priced for people under 25.\nEligibility: Next G
+ en pass is for under-25s and needs proof of age\; a 21-24 student qualifie
+ s. The startup pitch contest itself is for companies.\nDoors open 08:30 on
+  both days. Master Pass price rises from 1 Dec 2026.\nApply: https://step.
+ blendapp.ai/tickets
+URL:https://step.blendapp.ai/tickets
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kaggle-playground-series-s6e10-predicting-airline-satisf-fedf4-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:Kaggle Playground Series S6E10: Predicting Airline Satisfaction
+LOCATION:Online (Kaggle)
+DESCRIPTION:Kaggle tabular practice competition: predict airline passenger 
+ satisfaction\, scored by ROC AUC. The top three receive Kaggle swag. About
+  1\,800 teams have joined.\nEligibility: Open Playground competition\; ind
+ ividuals and teams of up to 3. Rules page unreadable\, so limits are uncon
+ firmed.\nFinal submissions 31 Oct 2026 23:59 UTC (Kaggle competition data)
+ .\nSource: https://www.kaggle.com/competitions/playground-series-s6e10
+URL:https://www.kaggle.com/competitions/playground-series-s6e10
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kaggle-playground-series-s6e10-predicting-airline-satisf-fedf4-deadline
+ @oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deadline: Kaggle Playground Series S6E10: Predicting Airline Satisf
+ action
+LOCATION:Online (Kaggle)
+DESCRIPTION:Kaggle tabular practice competition: predict airline passenger 
+ satisfaction\, scored by ROC AUC. The top three receive Kaggle swag. About
+  1\,800 teams have joined.\nEligibility: Open Playground competition\; ind
+ ividuals and teams of up to 3. Rules page unreadable\, so limits are uncon
+ firmed.\nFinal submissions 31 Oct 2026 23:59 UTC (Kaggle competition data)
+ .\nSource: https://www.kaggle.com/competitions/playground-series-s6e10
+URL:https://www.kaggle.com/competitions/playground-series-s6e10
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kaggle Playground Series S6E10: Predicting Airline Sa
+ tisfaction
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kaggle Playground Series S6E10: Predicting Airline Sa
+ tisfaction
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:huawei-ict-competition-2026-2027-0fce0-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Huawei ICT Competition 2026-2027
+LOCATION:Early rounds mostly remote\; final at Huawei headquarters\, Shenzh
+ en\, China
+DESCRIPTION:Huawei's annual global student contest: a Practice track (netwo
+ rk\, cloud\, computing exams) and an Innovation track (team AI solutions).
+  Individual preliminary exam in January 2027\, then national and regional 
+ rounds\, and a final in Shenzhen in May 2027.\nEligibility: Open to higher
+ -education students\; each registers individually and takes a written test
+ \, then teams represent their institutions. Oman entry route and rules unc
+ onfirmed.\nDates are approximate.\nThe 31 Dec 2026 deadline and stages (pr
+ eliminary exam Jan\, national Feb\, regional Mar\, final May 2027) come fr
+ om a Chilean news report using the Latin America schedule. Huawei's offici
+ al page could not be opened\, so Middle East and Oman da…\nSource: https
+ ://www.radioagricultura.cl/tendencias/viaja-a-china-gracias-a-tus-conocimi
+ entos-en-tecnologia-con-huawei_20261008/
+URL:https://www.radioagricultura.cl/tendencias/viaja-a-china-gracias-a-tus-
+ conocimientos-en-tecnologia-con-huawei_20261008/
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:huawei-ict-competition-2026-2027-0fce0-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Deadline: Huawei ICT Competition 2026-2027
+LOCATION:Early rounds mostly remote\; final at Huawei headquarters\, Shenzh
+ en\, China
+DESCRIPTION:Huawei's annual global student contest: a Practice track (netwo
+ rk\, cloud\, computing exams) and an Innovation track (team AI solutions).
+  Individual preliminary exam in January 2027\, then national and regional 
+ rounds\, and a final in Shenzhen in May 2027.\nEligibility: Open to higher
+ -education students\; each registers individually and takes a written test
+ \, then teams represent their institutions. Oman entry route and rules unc
+ onfirmed.\nDates are approximate.\nThe 31 Dec 2026 deadline and stages (pr
+ eliminary exam Jan\, national Feb\, regional Mar\, final May 2027) come fr
+ om a Chilean news report using the Latin America schedule. Huawei's offici
+ al page could not be opened\, so Middle East and Oman da…\nSource: https
+ ://www.radioagricultura.cl/tendencias/viaja-a-china-gracias-a-tus-conocimi
+ entos-en-tecnologia-con-huawei_20261008/
+URL:https://www.radioagricultura.cl/tendencias/viaja-a-china-gracias-a-tus-
+ conocimientos-en-tecnologia-con-huawei_20261008/
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Huawei ICT Competition 2026-2027
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Huawei ICT Competition 2026-2027
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dubai-fintech-summit-2026-139ce-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261104
+SUMMARY:Dubai FinTech Summit 2026
+LOCATION:Madinat Jumeirah\, Dubai\, UAE
+DESCRIPTION:Two-day fintech summit at Madinat Jumeirah with conference\, ex
+ po and the FinTech World Cup startup final. The Expo Pass is free by onlin
+ e application\; the Conference Pass costs USD 999.\nEligibility: Expo Pass
+  is free by online application and excludes fintech solution providers. No
+  student pass is listed\; approval rules are not stated.\nDates from the o
+ rganiser site.\nApply: https://dubaifintechsummit.com/get-involved/
+URL:https://dubaifintechsummit.com/get-involved/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hitcon-ctf-2026-7f3de-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:HITCON CTF 2026
+LOCATION:Online
+DESCRIPTION:Elite online Jeopardy CTF run by HITCON in Taiwan\; CTFtime wei
+ ght 91 with 133 teams interested. Prizes of $8\,000\, $4\,000 and $2\,000 
+ for the top three.\nEligibility: Register a team through CTFtime. No restr
+ ictions or team size limit shown on the CTFtime page.\n23 Oct 14:00 UTC to
+  25 Oct 14:00 UTC (CTFtime). The official site returned an error when open
+ ed.\nSource: https://ctftime.org/event/3340
+URL:https://ctftime.org/event/3340
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadface-ctf-2026-957dd-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261020
+SUMMARY:DEADFACE CTF 2026
+LOCATION:Online
+DESCRIPTION:Online Jeopardy-style CTF by Cyber Hacktics for National Cyber 
+ Security Awareness Month\, hosted with US Air Force veterans. Prizes of $3
+ 00\, $200 and $100 for the top three teams.\nEligibility: No restrictions 
+ listed\; register a team on the event site or through CTFtime. Team size n
+ ot stated.\n17 Oct 14:00 UTC to 19 Oct 00:00 UTC (CTFtime).\nApply: https:
+ //ctf.deadface.io/
+URL:https://ctf.deadface.io/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aws-re-invent-2026-8655b-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:AWS re:Invent 2026
+LOCATION:Las Vegas\, USA
+DESCRIPTION:Amazon Web Services' annual cloud conference in Las Vegas with 
+ 1\,200+ sessions. Keynotes and select live programming are livestreamed fr
+ ee\; the full in-person pass costs $2\,499 and has no listed student price
+ .\nEligibility: The free livestream is open to anyone\; the in-person pass
+  has no student price. An AWS Builder ID is needed to register.\nLivestrea
+ m registration opens later this year.\nApply: https://aws.amazon.com/event
+ s/reinvent/
+URL:https://aws.amazon.com/events/reinvent/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:startup-grind-muscat-coffee-at-kaleem-women-who-build-im-10ef4-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Startup Grind Muscat: Coffee at Kaleem - Women Who Build Impact
+LOCATION:Kaleem Cafe\, 1539 Way\, Muscat
+DESCRIPTION:Fireside chat with H.H. Sayyida Hujaija Al Said for Omani Women
+ 's Day\, on women's leadership and social entrepreneurship. Hosted by Star
+ tup Grind Muscat at Kaleem Cafe\; first coffee included.\nEligibility: Ope
+ n to entrepreneurs\, aspiring founders\, professionals and anyone passiona
+ te about positive change\; no fee\, age or student limit listed. RSVP requ
+ ested.\n3:30 to 5:30 pm Muscat time (11:30-13:30 UTC). RSVP requested so o
+ rganisers know numbers.\nApply: https://www.startupgrind.com/e/m22jue/
+URL:https://www.startupgrind.com/e/m22jue/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:google-summer-of-code-2027-6e7dc-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Google Summer of Code 2027
+DESCRIPTION:Google's online programme where new contributors spend 12+ week
+ s on an open-source project with a mentoring organisation. The 2026 cycle 
+ took contributor applications March 16-31\; the 2027 timeline is not yet p
+ ublished.\nEligibility: Open to newcomers to open source in past years\; a
+ ge and student rules for 2027 are not published\, so check the Rules page.
+ \nDates are approximate.\nEstimated from the official 2026 timeline (appli
+ cations Mar 16-31\, coding from May 25). 2027 dates are not published.\nSo
+ urce: https://developers.google.com/open-source/gsoc/timeline
+URL:https://developers.google.com/open-source/gsoc/timeline
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bitex-and-meet-ict-conference-0ee00-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+SUMMARY:BITEX and MEET ICT conference
+LOCATION:Gulf Convention Centre\, Manama\, Bahrain
+DESCRIPTION:Bahrain's ICT trade show and conference\, 12th edition\, with a
+ n AI theme.\nEligibility: Visitor registration is open on the organiser's 
+ site.\nSome listings show 25–27 Nov\, but the organiser says 27–28 Oct
+ .\nSource: https://www.bitexbh.com/
+URL:https://www.bitexbh.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:microsoft-ignite-2026-e4fcd-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261121
+SUMMARY:Microsoft Ignite 2026
+LOCATION:San Francisco\, USA (with online option)
+DESCRIPTION:Microsoft's annual conference on cloud\, AI and developer tools
+  at Moscone Center\, San Francisco\, with an online participation option. 
+ Dates come from third-party posts\; Microsoft's own page gave no dates.\nE
+ ligibility: Online attendance is reportedly free and open\; in-person pric
+ e and any student rate were not confirmed on the official page.\nDates and
+  registration status are from a June 2026 blog post and search results\; t
+ he official page text showed only a heading.\nSource: https://ignite.micro
+ soft.com/en-US/home
+URL:https://ignite.microsoft.com/en-US/home
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-2ai-online-seminar-cybersecurity-vulnerability-report-8184d-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:(CS)2AI Online Seminar: Cybersecurity Vulnerability Reporting and R
+ emediation
+LOCATION:Online (Zoom)
+DESCRIPTION:Free online seminar on how vulnerabilities are discovered\, rep
+ orted and fixed\, using a connected medical device case study. Hosted by t
+ he Meetup group Masqat Cyber Security for Control Systems\; attendance of 
+ an hour earns PDU/CEU certificates.\nEligibility: Open to anyone intereste
+ d\, free of charge\; register through the Zoom link on the event page. Cer
+ tificate needs at least one hour of attendance.\nWednesday 21 October 2026
+  at 9:00 PM. The event page gives no timezone\; the Meetup group page list
+ s its times as GST.\nApply: https://www.meetup.com/masqat-cyber-security-f
+ or-control-systems/events/316909529/
+URL:https://www.meetup.com/masqat-cyber-security-for-control-systems/events
+ /316909529/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-ai-show-abu-dhabi-2026-9c32d-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+SUMMARY:Global AI Show Abu Dhabi 2026
+LOCATION:Space42 Arena\, Abu Dhabi\, UAE
+DESCRIPTION:Two-day AI show at Space42 Arena\, Abu Dhabi. The Standard Pass
+  is free with limited seats\; Business and VIP passes are paid. No hackath
+ on or student pass is listed.\nEligibility: Standard Pass is free but seat
+ s are limited. The page lists identical features across passes\, so check 
+ what the free pass includes.\nDates from the organiser page.\nApply: https
+ ://www.globalaishow.com/abu-dhabi/
+URL:https://www.globalaishow.com/abu-dhabi/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:devfest-2026-by-gdg-abu-dhabi-b8294-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:DevFest 2026 by GDG Abu Dhabi
+LOCATION:Abu Dhabi\, UAE (venue TBA)
+DESCRIPTION:Community developer conference by GDG Abu Dhabi on AI and Googl
+ e Cloud\, open to all skill levels from beginners up. Venue is still to be
+  announced\; the chapter page shows free registration.\nEligibility: Open 
+ to all skill levels via RSVP. Cost and date conflict between pages\, so co
+ nfirm before travelling.\nListing shows 7 Nov 2026\, 09:00-18:00 Abu Dhabi
+  time\; the description text says 21 Nov\, so confirm.\nApply: https://gdg
+ .community.dev/events/details/google-gdg-abu-dhabi-presents-devfest-2026-b
+ y-gdg-abu-dhabi/
+URL:https://gdg.community.dev/events/details/google-gdg-abu-dhabi-presents-
+ devfest-2026-by-gdg-abu-dhabi/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:meta-vr-start-developer-competition-2026-4c80e-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20261119
+SUMMARY:Meta VR Start Developer Competition 2026
+LOCATION:Online
+DESCRIPTION:Contest for building games and apps for Meta VR devices\, enter
+ ed as an individual\, team or organisation. Devpost lists a $1\,000\,000 p
+ rize pool\; judging runs to 9 December.\nEligibility: Age 18+\, not reside
+ nt in Brazil\, Quebec or sanctioned regions\; needs a Meta developer accou
+ nt and Meta VR Start membership by submission. Teams are two or more.\nEnt
+ ry period to 18 Nov 2026 12:00 PT\; winners around 11 Dec 2026.\nApply: ht
+ tps://start-developer-competition-26.devpost.com/
+URL:https://start-developer-competition-26.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:meta-vr-start-developer-competition-2026-4c80e-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Deadline: Meta VR Start Developer Competition 2026
+LOCATION:Online
+DESCRIPTION:Contest for building games and apps for Meta VR devices\, enter
+ ed as an individual\, team or organisation. Devpost lists a $1\,000\,000 p
+ rize pool\; judging runs to 9 December.\nEligibility: Age 18+\, not reside
+ nt in Brazil\, Quebec or sanctioned regions\; needs a Meta developer accou
+ nt and Meta VR Start membership by submission. Teams are two or more.\nEnt
+ ry period to 18 Nov 2026 12:00 PT\; winners around 11 Dec 2026.\nApply: ht
+ tps://start-developer-competition-26.devpost.com/
+URL:https://start-developer-competition-26.devpost.com/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Meta VR Start Developer Competition 2026
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Meta VR Start Developer Competition 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gitex-global-2026-dubai-0afa7-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:GITEX Global 2026 (Dubai)
+LOCATION:Dubai World Trade Centre and Expo City Dubai\, UAE
+DESCRIPTION:Huge technology and AI show with Main\, Falcon (AI)\, Q (Cyber)
+  and Dune (startup) stages. Open Floor sessions are free access and includ
+ e YouthX Unplugged for universities\; delegate and startup passes are paid
+ .\nEligibility: Ticket prices and any student pass are not shown on the of
+ ficial pages\; Open Floor is stated as free access. Confirm before booking
+ .\nSummit 7 Dec at DWTC\; Expo 8-11 Dec at Expo City Dubai.\nApply: https:
+ //visit.gitex.com/
+URL:https://visit.gitex.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lakectf-quals-26-27-bf3c7-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:LakeCTF Quals 26-27
+LOCATION:Online (finals on-site at EPFL\, Lausanne)
+DESCRIPTION:Online qualifier run by polygl0ts at EPFL. In the previous edit
+ ion the top 10 academic teams were invited to on-site finals in Lausanne w
+ ith lodging paid.\nEligibility: Quals open to academic\, professional and 
+ mixed teams\; remote play is not allowed in the finals (previous edition r
+ ules).\n27 Nov 18:00 UTC to 28 Nov 18:00 UTC (CTFtime). Finals terms below
+  come from the official page's previous edition.\nApply: https://lakectf.e
+ pfl.ch/
+URL:https://lakectf.epfl.ch/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-company-ptcg-ai-battle-challenge-playground-kagg-d5d6d-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20270109
+SUMMARY:Pokemon Company PTCG AI Battle Challenge Playground (Kaggle)
+LOCATION:Online (Kaggle)
+DESCRIPTION:Kaggle competition from The Pokemon Company: train an AI agent 
+ to play the Pokemon Trading Card Game\, scored in best-of-three matches. F
+ ive prizes\, listed as swag.\nEligibility: Individuals and teams of up to 
+ 5. Rules page unreadable\, so age and country limits are unconfirmed.\nNew
+  entrants and team mergers close 1 Jan 2027\; final submissions 8 Jan 2027
+  (Kaggle competition data).\nSource: https://www.kaggle.com/competitions/t
+ he-pokemon-company-ptcg-ai-battle-challenge-playground
+URL:https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-
+ challenge-playground
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-company-ptcg-ai-battle-challenge-playground-kagg-d5d6d-deadline
+ @oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Deadline: Pokemon Company PTCG AI Battle Challenge Playground (Kagg
+ le)
+LOCATION:Online (Kaggle)
+DESCRIPTION:Kaggle competition from The Pokemon Company: train an AI agent 
+ to play the Pokemon Trading Card Game\, scored in best-of-three matches. F
+ ive prizes\, listed as swag.\nEligibility: Individuals and teams of up to 
+ 5. Rules page unreadable\, so age and country limits are unconfirmed.\nNew
+  entrants and team mergers close 1 Jan 2027\; final submissions 8 Jan 2027
+  (Kaggle competition data).\nSource: https://www.kaggle.com/competitions/t
+ he-pokemon-company-ptcg-ai-battle-challenge-playground
+URL:https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-
+ challenge-playground
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Pokemon Company PTCG AI Battle Challenge Playground (
+ Kaggle)
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Pokemon Company PTCG AI Battle Challenge Playground (
+ Kaggle)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-swift-student-challenge-2027-bca15-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Apple Swift Student Challenge 2027
+DESCRIPTION:Apple's yearly challenge where students submit a Swift app play
+ ground. Distinguished Winners are invited to Apple in Cupertino for three 
+ days. The 2026 cycle ran Feb 6-28\; Apple has not published 2027 dates.\nE
+ ligibility: Aimed at students\; Apple's eligibility page was not opened. C
+ heck age and enrolment rules when the 2027 cycle opens.\nDates are approxi
+ mate.\nEstimated from the 2026 cycle (Feb 6-28) and 2025 (from Feb 3). App
+ le's page only offers a notify-me sign-up for the next cycle.\nSource: htt
+ ps://developer.apple.com/swift-student-challenge/
+URL:https://developer.apple.com/swift-student-challenge/
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:oman-collegiate-programming-contest-ocpc-2026-national-f-5d490-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:Oman Collegiate Programming Contest (OCPC) 2026 national finals
+LOCATION:Sultan Qaboos University\, Muscat
+DESCRIPTION:National finals of the ICPC-style team programming contest for 
+ Omani universities and colleges\, hosted at SQU. Top sub-regional teams fr
+ om the April 2026 qualifiers advance\; UTAS-Ibra reports the finals for Oc
+ tober 2026.\nEligibility: Students of Omani universities and colleges in t
+ eams of three\; finalists are the top teams from April 2026 sub-regional q
+ ualifiers\, so a new entrant likely cannot register.\nDates are approximat
+ e.\nUTAS-Ibra says the finals are in October 2026\; no exact day found\, s
+ o it may already have run. Sub-regional qualifier was held 25 April 2026 a
+ t UTAS-Ibra\; the top three teams advanced.\nSource: https://www.utas.edu.
+ om/ibra/News/utas-ibra-hosts-successful-ocpc-sub-regional-programming-cont
+ est-2026
+URL:https://www.utas.edu.om/ibra/News/utas-ibra-hosts-successful-ocpc-sub-r
+ egional-programming-contest-2026
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nvidia-gtc-2027-89d1b-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+SUMMARY:NVIDIA GTC 2027
+LOCATION:San Jose\, USA (hybrid)
+DESCRIPTION:NVIDIA's flagship AI conference in San Jose\, run as a hybrid e
+ vent with in-person and virtual options. Registration opens later this fal
+ l and a call for posters is open.\nEligibility: Registration is not open a
+ nd pricing is unannounced\; the poster call does not say whether students 
+ can enter.\nThe FAQ lists Mar 14-18 including a training day\; the main pa
+ ge says Mar 15-18.\nSource: https://www.nvidia.com/en-zz/gtc/faq/
+URL:https://www.nvidia.com/en-zz/gtc/faq/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:enterprise-ai-expo-2026-53973-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+SUMMARY:Enterprise AI Expo 2026
+LOCATION:Sheraton\, Muscat
+DESCRIPTION:Two-day AI conference and exhibition at the Sheraton\, Muscat\,
+  with eight topic tracks and 18+ hands-on workshops in six streams: AI lea
+ dership\, infrastructure\, security\, AI core\, development\, data science
+ . Organised by The Future Event with Tazeez AI.\nEligibility: Only a Deleg
+ ate Pass at OMR 150 is listed\; no student\, academic or free tier is ment
+ ioned. Ask organisers (contact@thefuture-event.com) about student rates.\n
+ Official site banner and The Future Event's events list both show 2-3 Dec 
+ 2026 at Sheraton Muscat. The site's scrolling banner still shows 13-14 May
+  2026 at OCEC Muscat (already past\, apparently stale). The ticket page gi
+ ves no dates\; a 25…\nApply: https://aienterpriseexpo.com/book-tickets
+URL:https://aienterpriseexpo.com/book-tickets
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:omantel-accelerator-cohort-9-c76b5-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270813
+SUMMARY:Omantel Accelerator\, Cohort 9
+LOCATION:Omantel headquarters\, Muscat
+DESCRIPTION:Six-month accelerator for Oman-founded tech startups (5G\, IoT\
+ , cybersecurity\, customer experience\, big data\, AI\, fintech). Offers m
+ entoring\, a perks package\, free desk space at Omantel HQ and possible in
+ vestment from Omantel Innovation Labs.\nEligibility: Needs a startup found
+ ed in Oman with its own technology\; post-MVP preferred\, ideally with cus
+ tomers. Solo founders can apply. Company registration and student status a
+ re not stated.\nApplications opened 27 Sep 2026 and close 9 Jan 2027\; coh
+ ort runs 10 Feb to 12 Aug 2027. The Omantel pages write dates as DD/MM/YYY
+ Y. The FAQ expects participants onsite.\nApply: https://www.f6s.com/omante
+ l-accelerator-cohort-9/apply
+URL:https://www.f6s.com/omantel-accelerator-cohort-9/apply
+CATEGORIES:Funding
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:omantel-accelerator-cohort-9-c76b5-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Deadline: Omantel Accelerator\, Cohort 9
+LOCATION:Omantel headquarters\, Muscat
+DESCRIPTION:Six-month accelerator for Oman-founded tech startups (5G\, IoT\
+ , cybersecurity\, customer experience\, big data\, AI\, fintech). Offers m
+ entoring\, a perks package\, free desk space at Omantel HQ and possible in
+ vestment from Omantel Innovation Labs.\nEligibility: Needs a startup found
+ ed in Oman with its own technology\; post-MVP preferred\, ideally with cus
+ tomers. Solo founders can apply. Company registration and student status a
+ re not stated.\nApplications opened 27 Sep 2026 and close 9 Jan 2027\; coh
+ ort runs 10 Feb to 12 Aug 2027. The Omantel pages write dates as DD/MM/YYY
+ Y. The FAQ expects participants onsite.\nApply: https://www.f6s.com/omante
+ l-accelerator-cohort-9/apply
+URL:https://www.f6s.com/omantel-accelerator-cohort-9/apply
+CATEGORIES:Funding
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Omantel Accelerator\, Cohort 9
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Omantel Accelerator\, Cohort 9
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:riyada-startup-studio-terminal-11-muscat-18b01-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20270327
+SUMMARY:Riyada Startup Studio (Terminal 11\, Muscat)
+LOCATION:Terminal 11\, Muscat Grand Mall\, Tilal Complex\, Muscat
+DESCRIPTION:National venture-builder at Terminal 11 aiming to create 15 Oma
+ ni startups in 12 months across energy\, tourism\, logistics\, health and 
+ food security/agritech. Two tracks: lead founder (join a studio-validated 
+ idea) or co-founder (bring your own idea).\nEligibility: At least one foun
+ der must be full-time throughout and available in Muscat\; applicants must
+  live in Oman or be able to take part there. Student fit unclear.\nProgram
+ me card shows 2026-09-26 to 2027-03-26 with status Registration open\; the
+  apply page says applications are open now\, gives no deadline and does no
+ t say whether these are application or programme dates.\nApply: https://te
+ rminal11.om/programs/2/apply
+URL:https://terminal11.om/programs/2/apply
+CATEGORIES:Funding
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gisec-global-2027-5eb5f-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+SUMMARY:GISEC Global 2027
+LOCATION:Dubai Exhibition Centre\, Expo City Dubai\, UAE
+DESCRIPTION:The Gulf's main cybersecurity show\, listed for 4-6 May 2027 at
+  Expo City Dubai. The organiser links a free-pass registration and mention
+ s Hack-O-Sphere competitions\, but gives no student entry rules.\nEligibil
+ ity: Free pass criteria are not shown\, and one directory describes the sh
+ ow as trade-only. Confirm student access before travelling.\nFrom the orga
+ niser site header. The 2026 edition ran 16-18 Sept 2026.\nApply: https://v
+ isit.gisec.ae/
+URL:https://visit.gisec.ae/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gems-prize-challenge-us-department-of-energy-93070-deadline@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Deadline: GEMS Prize Challenge (US Department of Energy)
+LOCATION:Online
+DESCRIPTION:Prize challenge on DrivenData: identify hidden geologic faults 
+ to find geothermal resources. $300\,000 in total across an initial and a f
+ inal prize round.\nEligibility: Prize eligibility rules were not visible\;
+  DrivenData points to the official rules page. Confirm country and student
+  limits before investing time.\nDeadline 3 Dec 2026 23:59 UTC per the Driv
+ enData page.\nApply: https://www.drivendata.org/competitions/306/competiti
+ on-doe-gems/
+URL:https://www.drivendata.org/competitions/306/competition-doe-gems/
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: GEMS Prize Challenge (US Department of Energy)
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: GEMS Prize Challenge (US Department of Energy)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:google-i-o-2027-b057e-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Google I/O 2027
+LOCATION:Mountain View\, USA (with online access)
+DESCRIPTION:Google's annual developer conference covering Android\, Gemini 
+ and web tools\, normally with online keynotes and on-demand sessions. No 2
+ 027 dates are published\; I/O 2026 ran May 19-20.\nEligibility: Online vie
+ wing has been open to everyone in past years\; 2027 format and any registr
+ ation are not announced.\nDates are approximate.\nNo official 2027 date. I
+ /O 2026 ran May 19-20\; date trackers guess mid-May 2027 but disagree (May
+  12 vs May 18).\nSource: https://io.google/
+URL:https://io.google/
+CATEGORIES:Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:oman-career-fair-2026-bcd5d-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+SUMMARY:Oman Career Fair 2026
+LOCATION:Oman Convention & Exhibition Centre\, Muscat
+DESCRIPTION:Two-day career fair at OCEC Muscat with 100+ exhibiting employe
+ rs\, 20+ workshops\, 50+ speakers and a free CV evaluation service. Aimed 
+ at Omani job seekers across the public and private sectors.\nEligibility: 
+ Registration form lists student and job seeker among career statuses\; und
+ ergraduates can register. No other criteria stated\, but the form has a pa
+ yment button\, so check the fee.\n9 am to 6 pm both days. The Tazeez Group
+  site lists a 2027 edition with no date.\nApply: https://omancareerfair.co
+ m/en/register
+URL:https://omancareerfair.com/en/register
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dubai-future-week-2026-442da-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261122
+SUMMARY:Dubai Future Week 2026
+LOCATION:Emirates Towers and Museum of the Future\, Dubai\, UAE
+DESCRIPTION:Four-day Dubai Future Foundation event at Emirates Towers and t
+ he Museum of the Future with talks\, a prototype floor\, a pitch\, a polic
+ y room and a challenge track. Attendee registration is open\; prices are n
+ ot stated.\nEligibility: The attendee form is public but states no price o
+ r eligibility. The Challenge and 500 Future Minds have no public details.\
+ nDates from the organiser page.\nApply: https://dubaifutureweek.com/en#reg
+ ister
+URL:https://dubaifutureweek.com/en#register
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dubai-ai-festival-2026-ae085-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261028
+SUMMARY:Dubai AI Festival 2026
+LOCATION:Dubai World Trade Centre\, Dubai\, UAE
+DESCRIPTION:Two-day AI conference and expo at Dubai World Trade Centre with
+  investors\, government and enterprise speakers\, organised by Trescon. A 
+ USD 50 Event Pass covers the exhibition floor and conference sessions.\nEl
+ igibility: Paid professional conference with no student price\; the USD 50
+  Event Pass is open to purchase\, while Guest and Investor passes need app
+ roval.\nEarlier press reports gave April 2026\; the festival's own site no
+ w shows 26-27 October 2026.\nApply: https://dubaiaifestival.com/register/
+URL:https://dubaiaifestival.com/register/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-everything-abu-dhabi-2027-b3626-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270513
+SUMMARY:AI Everything Abu Dhabi 2027
+LOCATION:Abu Dhabi\, UAE (2026 edition at ADNEC)
+DESCRIPTION:Next edition of Abu Dhabi's AI show\, shown as 11-12 May 2027 i
+ n the organiser site header. The 2026 edition carried AI hackathons and tr
+ aining\; 2027 programme\, venue and tickets are not yet published.\nEligib
+ ility: No 2027 registration or student rules are published yet.\nDate take
+ n from the organiser site header only\; the 2026 edition ran 6-7 Oct at AD
+ NEC.\nSource: https://www.aieverythingabudhabi.com/home
+URL:https://www.aieverythingabudhabi.com/home
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arabian-chatbot-agentic-ai-summit-2026-c697c-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Arabian Chatbot & Agentic AI Summit 2026
+LOCATION:ADNEC Centre\, Abu Dhabi\, UAE
+DESCRIPTION:One-day conference and exhibition at ADNEC Abu Dhabi on generat
+ ive AI\, voice agents and agentic AI. Visitor Pass is AED 200 and Delegate
+  Pass AED 400\; no student pass or competition is listed.\nEligibility: Pa
+ id professional event with no student price listed.\n10:00-16:00. A third-
+ party guide quoted lower prices\, so rates may change.\nApply: https://the
+ arabianchatbot.com/
+URL:https://thearabianchatbot.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:advent-of-code-2026-a1d99-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Advent of Code 2026
+LOCATION:Online
+DESCRIPTION:Annual Advent calendar of daily programming puzzles by Eric Was
+ tl. Puzzles unlock at midnight US Eastern from 1 December. The 2026 editio
+ n has not been announced on the site.\nEligibility: No restrictions stated
+  on the pages opened\; it is a public puzzle event.\nDates are approximate
+ .\n2026 edition unannounced. The about page says puzzles start each 1 Dece
+ mber and end mid-December\; the number of days changed from 2025.\nSource:
+  https://adventofcode.com/about
+URL:https://adventofcode.com/about
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:falling-walls-lab-oman-next-call-2027-567a6-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Falling Walls Lab Oman\, next call (2027)
+LOCATION:Oman (University of Nizwa in 2026)\; Berlin for the global final
+DESCRIPTION:Three-minute pitch contest for research projects\, innovations 
+ or ventures\, run by the Research and Innovation Authority with the Fallin
+ g Walls Foundation. The winner goes to the Berlin global finals. The 2026 
+ call closed on 11 June.\nEligibility: 2026 rules: enrolled bachelor's stud
+ ents or bachelor's graduates within 10 years may apply\; English only\; 20
+ 27 rules not published.\nDates are approximate.\n2026: registration 10 May
+ -11 Jun\, Oman Lab held 1 Sep 2026 at University of Nizwa\, Berlin finals 
+ 5-9 Nov 2026. Global 2027 season opens 1 Feb 2027\; Oman's 2027 call is no
+ t announced\, so May is only an estimate from 2026 timing.\nSource: https:
+ //www.omanobserver.om/article/1189404/oman/registration-opens-for-falling-
+ walls-lab-contest
+URL:https://www.omanobserver.om/article/1189404/oman/registration-opens-for
+ -falling-walls-lab-contest
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:black-hat-mea-2026-riyadh-5afc1-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+SUMMARY:Black Hat MEA 2026 (Riyadh)
+LOCATION:Riyadh Exhibition and Convention Centre\, Malham\, Saudi Arabia
+DESCRIPTION:Cybersecurity conference and expo in Riyadh with Briefings\, Ar
+ senal and the Blacksite. An Expo pass is free and a vetted free Student Pa
+ ss exists (needs a .edu email). CTF finals run alongside for prequalified 
+ teams.\nEligibility: The Student Pass needs a .edu email and passes eligib
+ ility checks\, which an Omani university address may not satisfy\; the Exp
+ o pass is free to everyone.\nCould not re-open the official pages in this 
+ check (HTTP 403)\; dates come from the earlier pass.\nApply: https://black
+ hatmea.com/tickets-2026
+URL:https://blackhatmea.com/tickets-2026
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hadatha-for-excellence-initiative-next-edition-cb9bb-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Hadatha for Excellence Initiative\, next edition
+LOCATION:Muscat
+DESCRIPTION:Annual national awards for the cybersecurity industry\, with an
+  individual track covering research\, content creation\, technical innovat
+ ions and freelancing. The third edition's registration ran 2-17 August 202
+ 6\, with winners due in September.\nEligibility: 2026 individual track: ci
+ tizens aged 18+\, original work completed within one year\, with documents
+ . Student projects can also enter through a supervising institution.\nDate
+ s are approximate.\n2026 (third edition): registration 2-17 Aug\, evaluati
+ on 19-30 Aug\, winners announced in September\; the official page now show
+ s registration closed. No 2027 dates announced\; mid-2027 is only an estim
+ ate.\nApply: https://cert.gov.om/sp/HadathaAwards
+URL:https://cert.gov.om/sp/HadathaAwards
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:expand-north-star-2026-dubai-789df-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+SUMMARY:Expand North Star 2026 (Dubai)
+LOCATION:Expo City Dubai\, UAE
+DESCRIPTION:World's largest startup and investor event\, held alongside GIT
+ EX Global. Includes the Supernova pitch competition\, a Founders Academy a
+ nd the GITEX YouthX youth programme. The site offers free visitor pre-regi
+ stration.\nEligibility: Visitor pre-registration appears free\, but exhibi
+ tor and Founder passes are for startups. Confirm final visitor pass terms 
+ and any student rules.\nSource: https://expandnorthstar.com/
+URL:https://expandnorthstar.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:black-hat-mea-ctf-2026-finals-12880-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+SUMMARY:Black Hat MEA CTF 2026 finals
+LOCATION:Riyadh Exhibition and Convention Centre\, Malham\, Riyadh\, Saudi 
+ Arabia
+DESCRIPTION:Jeopardy-style team CTF with in-person finals in Riyadh for the
+  top 150 teams\; categories include web\, pwn\, forensics\, reverse engine
+ ering\, crypto and AI hacking. The online qualifier was on 29 August 2026.
+ \nEligibility: Open to participants worldwide per press\, in teams of 3-5.
+  Qualifier closed\, so only qualified teams can play the finals.\nQualifie
+ r was 29 Aug 2026 (online)\; only qualified teams play the finals. Next ed
+ ition likely repeats the pattern.\nSource: https://www.arabnews.pk/node/26
+ 50972
+URL:https://www.arabnews.pk/node/2650972
+CATEGORIES:Competition
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cysec-oman-2026-9268b-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:CYSEC Oman 2026
+LOCATION:Sheraton Oman Hotel\, Muscat
+DESCRIPTION:One-day executive cybersecurity conference and exhibition in Mu
+ scat: zero trust\, AI-driven defence\, critical infrastructure protection\
+ , incident response\, plus challenge-based sessions and up to 7 CPD points
+ . Partners include Oman National CERT.\nEligibility: Executive-level confe
+ rence\; the registration page offers only a VIP Delegate ticket via an ext
+ ernal form\, with no student rate listed. Ask organisers about student acc
+ ess.\nApply: https://oman.cysecglobal.com/register/
+URL:https://oman.cysecglobal.com/register/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17th-middle-east-enterprise-ai-analytics-summit-muscat-d391c-start@oman
+ -scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:17th Middle East Enterprise AI & Analytics Summit (Muscat)
+LOCATION:Muscat
+DESCRIPTION:One-day in-person summit in Muscat on applied AI and analytics 
+ in enterprises\, aligned with Oman's Vision 2040\, run by LetstalkB2B\, 8:
+ 30 AM to 4 PM. Ticket price and venue are not shown on the listing.\nEligi
+ bility: Enterprise industry summit\; no student or discount ticket is ment
+ ioned on the listing. Check ticket price and audience before booking.\nVen
+ ue not named on the Eventbrite listing\; city only. Year not printed on th
+ e listing\, but 28 Oct is a Wednesday in 2026.\nApply: https://www.eventbr
+ ite.com/e/17th-middle-east-enterprise-ai-analytics-summit-tickets-19782146
+ 23190
+URL:https://www.eventbrite.com/e/17th-middle-east-enterprise-ai-analytics-s
+ ummit-tickets-1978214623190
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-qatar-2027-36d35-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270204
+SUMMARY:Web Summit Qatar 2027
+LOCATION:Doha Exhibition and Convention Centre\, Doha\, Qatar
+DESCRIPTION:Large startup\, AI and tech conference in Doha. General attende
+ e ticket is QAR 1\,595 (listed beside a crossed-out QAR 3\,195)\; VIP is Q
+ AR 12\,995. Startup programme and PITCH contest are for companies.\nEligib
+ ility: Paid professional conference with no student ticket listed. Volunte
+ ering for a free ticket is a separate route.\nDates from the organiser sit
+ e.\nApply: https://qatar.websummit.com/tickets/attendees/
+URL:https://qatar.websummit.com/tickets/attendees/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:leap-2027-7e3cc-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270416
+SUMMARY:LEAP 2027
+LOCATION:Riyadh Exhibition and Convention Centre\, Malham\, Riyadh\, Saudi 
+ Arabia
+DESCRIPTION:Saudi Arabia's large tech and AI conference in Riyadh\, run by 
+ Tahaluf with the communications ministry. The 2027 dates come only from a 
+ third-party listing\; ticket prices and student rules are unverified.\nEli
+ gibility: No official 2027 page could be opened\, so entry rules and any s
+ tudent pricing are unknown.\nDates from the beri.net listing (updated 28 S
+ ep 2026). Other listings disagree and I found no official 2027 announcemen
+ t.\nSource: https://www.beri.net/events/leap-2027
+URL:https://www.beri.net/events/leap-2027
+CATEGORIES:Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-entrepreneurship-week-2026-oman-6d8f8-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261123
+SUMMARY:Global Entrepreneurship Week 2026 (Oman)
+LOCATION:Oman (programme to be announced)
+DESCRIPTION:Global Entrepreneurship Week runs 16-22 November. Oman's campai
+ gn has been coordinated since 2013 by the National Business Centre (Madayn
+ ) at Knowledge Oasis Muscat. The 2026 Oman programme has not been publishe
+ d yet.\nEligibility: Audience for past Oman GEW events isn't stated on GEN
+ 's page\; the 2026 programme and any registration rules are not announced.
+ \nGlobal dates (16-22 Nov 2026) confirmed on GEN's GEW page. No 2026 Oman 
+ schedule\, venue or registration is published\; GEN's Oman events listing 
+ page returns HTTP 410.\nSource: https://www.genglobal.org/oman
+URL:https://www.genglobal.org/oman
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mbzuai-undergraduate-research-internship-ugrip-summer-20-5ef53-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:MBZUAI Undergraduate Research Internship (UGRIP)\, summer 2027
+LOCATION:Abu Dhabi\, UAE
+DESCRIPTION:Summer research internship for undergraduates at an AI-focused 
+ university in Abu Dhabi. The 2026 edition took applications from January t
+ o 28 February 2026. A 2027 call is expected around the same time but is no
+ t announced.\nEligibility: Search summary says third and fourth-year STEM 
+ bachelor's students of all nationalities. Unverified\; confirm year-of-stu
+ dy rules\, funding and dates on the official page.\nDates are approximate.
+ \n2026 window (Jan to 28 Feb 2026) comes from a search summary only\; the 
+ official page returns 403 and could not be opened. 2027 dates are an estim
+ ate.\nSource: https://mbzuai.ac.ae/ar/ugrip/
+URL:https://mbzuai.ac.ae/ar/ugrip/
+CATEGORIES:Funding
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nyuad-hackathon-for-social-good-15th-edition-application-e6e62-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:NYUAD Hackathon for Social Good\, 15th edition (applications Oct 20
+ 27)
+LOCATION:NYU Abu Dhabi\, Abu Dhabi\, UAE
+DESCRIPTION:Annual international hackathon for social good run by NYU Abu D
+ habi\, NYUAD Engineering and Tamkeen. The 14th edition (in-person April 20
+ 27) has a selected cohort and is closed\; applications for the 15th are ex
+ pected to open in October 2027.\nEligibility: No eligibility\, selection o
+ r travel-support rules are published on the pages seen\; they should appea
+ r when applications for the 15th edition open.\nDates are approximate.\nAp
+ ply page says applications for the 15th edition are expected to open in Oc
+ tober 2027 and the 14th is closed. The 14th is shown as 22-25 April 2027 (
+ home page update says 22-26 April\, postponed)\, with a virtual segment 8-
+ 10 Dec 2026. 15th…\nApply: https://hackathon.nyuad.nyu.edu/apply/
+URL:https://hackathon.nyuad.nyu.edu/apply/
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-lisbon-2026-3435f-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:Web Summit Lisbon 2026
+LOCATION:Lisbon\, Portugal
+DESCRIPTION:Large technology and startup conference in Lisbon\, November 9-
+ 12\, 2026. The ticket page lists General (EUR 995)\, VIP and Chairperson t
+ ickets and shows no student ticket.\nEligibility: Paid professional confer
+ ence with no student ticket listed on the official page.\nApply: https://w
+ ebsummit.com/tickets/attendees/
+URL:https://websummit.com/tickets/attendees/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:oracle-ai-world-2026-01700-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261029
+SUMMARY:Oracle AI World 2026
+LOCATION:The Venetian\, Las Vegas\, USA
+DESCRIPTION:Oracle's annual conference at The Venetian\, Las Vegas\, Octobe
+ r 25-28\, 2026. A third-party guide lists general passes from $1\,999\; I 
+ found no student price or livestream confirmation.\nEligibility: Paid prof
+ essional event\; no student rate or free livestream found.\nDates from Ora
+ cle's FAQ per search results\; the official pages returned 403 when opened
+ .\nSource: https://www.oracle.com/ai-world/faq/
+URL:https://www.oracle.com/ai-world/faq/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:google-cloud-next-2027-636e3-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+SUMMARY:Google Cloud Next 2027
+LOCATION:Mandalay Bay\, Las Vegas\, USA
+DESCRIPTION:Google Cloud's annual conference\, scheduled for April 13-15\, 
+ 2027 at Mandalay Bay\, Las Vegas. Registration is not open yet and the off
+ icial FAQ does not mention digital access or pricing.\nEligibility: Regist
+ ration\, pricing and any student or digital pass have not been announced.\
+ nSource: https://www.googlecloudevents.com/next-vegas/faq
+URL:https://www.googlecloudevents.com/next-vegas/faq
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abu-dhabi-finance-week-2026-e988a-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+SUMMARY:Abu Dhabi Finance Week 2026
+LOCATION:The Grand Steps\, Al Maryah Island\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi's week of finance and fintech events on Al Maryah Isl
+ and\; last year had 65+ events. A ticket page exists\, but no student acce
+ ss or competitions are listed.\nEligibility: Professional event\; no stude
+ nt pass or pricing shown.\nDates from the organiser site.\nApply: https://
+ www.adfw.com/
+URL:https://www.adfw.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edutrac-oman-2026-higher-education-training-career-expo-7ae27-start@oma
+ n-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261015
+SUMMARY:EduTraC Oman 2026 (Higher Education\, Training & Career Expo)
+LOCATION:Exhibition Hall 3\, Oman Convention & Exhibition Centre\, Muscat
+DESCRIPTION:Higher education\, training and career expo at OCEC Hall 3 wher
+ e Omani\, regional and international institutions present study options. O
+ pen 9 am to 8 pm\; today is the final day. Visitor registration at edutrac
+ oman.com.\nEligibility: Aimed at students and visitors\, including master'
+ s degree holders. Visitors register through the site's registration link\;
+  no entry fee is listed.\nFinal day is 14 Oct 2026\, open until 8 pm. Orga
+ niser inferred from the contact email (alnimrexpo.com)\; the OCEC page doe
+ s not name one.\nApply: https://edutracoman.com/visitor-registration
+URL:https://edutracoman.com/visitor-registration
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mwc-barcelona-2027-44f94-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270305
+SUMMARY:MWC Barcelona 2027
+LOCATION:Fira Gran Via\, Barcelona\, Spain
+DESCRIPTION:The GSMA's mobile and telecom congress at Fira Gran Via\, Barce
+ lona\, March 1-4\, 2027. The official site offers exhibitor and email sign
+ -ups only\; attendee registration and ticket prices are not published.\nEl
+ igibility: Paid professional event\; no student or free pass found on the 
+ official page.\nSource: https://www.mwcbarcelona.com/
+URL:https://www.mwcbarcelona.com/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:huawei-seeds-for-the-future-oman-selection-possible-2027-dade6-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Huawei Seeds for the Future\, Oman selection (possible 2027)
+LOCATION:Selection in Oman\; regional round in Tashkent (2024) and finals i
+ n China
+DESCRIPTION:Huawei's student ICT talent programme. Omani university student
+ s were picked through testing and interviews for a national team at the 20
+ 24 regional round in Tashkent\; regional winners go to a China final. No O
+ man 2027 call found.\nEligibility: 2024 participants were university stude
+ nts from several Omani institutions chosen via tests and interviews. No ag
+ e or nationality rules seen\; next cycle rules unpublished.\nDates are app
+ roximate.\nNo Oman 2026 or 2027 call found. In 2024 the Oman team was chos
+ en before the Tashkent regional round (reported 13 and 27 Aug 2024)\; mid-
+ 2027 is a guess.\nSource: https://www.mcbs.edu.om/huaweis-seeds-for-the-fu
+ ture-2024/
+URL:https://www.mcbs.edu.om/huaweis-seeds-for-the-future-2024/
+CATEGORIES:Competition
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:connected-banking-summit-middle-east-ceee6-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Connected Banking Summit Middle East
+LOCATION:Muscat\, Oman
+DESCRIPTION:Banking and fintech leaders discuss digital-first banking platf
+ orms. This is the 32nd edition.\nEligibility: Professional summit. The pri
+ ce is not published\, so ask the organiser about a student rate.\nSource: 
+ https://connected-banking.com/summit/middle-east/
+URL:https://connected-banking.com/summit/middle-east/
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:al-wathbah-academy-startup-training-next-phase-bank-musc-59e81-start@om
+ an-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Al Wathbah Academy startup training\, next phase (Bank Muscat with 
+ Sharakah)
+LOCATION:Oman
+DESCRIPTION:Business training for early-stage entrepreneurs by Bank Muscat 
+ with Sharakah. Phase 2 took applications 23-30 April 2026\, runs June-Dece
+ mber 2026\; covers project planning\, marketing\, communication\, digital 
+ transformation and advisory sessions.\nEligibility: Designed for entrepren
+ eurs and owners of emerging startups in Oman\; phase 1 enrolled owners of 
+ existing businesses. Student or idea-stage eligibility is not stated.\nDat
+ es are approximate.\nPhase 2 applications ran 23-30 Apr 2026 (closed)\; pr
+ ogramme June-Dec 2026. No next phase announced\; April 2027 is a guess fro
+ m that pattern.\nSource: https://menastartupdigest.com/bank-muscat-opens-a
+ pplications-for-al-wathbah-academys-next-startup-training-program/
+URL:https://menastartupdigest.com/bank-muscat-opens-applications-for-al-wat
+ hbah-academys-next-startup-training-program/
+CATEGORIES:Funding
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:oman-sustainability-week-2027-9cf55-start@oman-scout
+DTSTAMP:20261014T142954Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270429
+SUMMARY:Oman Sustainability Week 2027
+LOCATION:Muscat (awards at Oman Convention & Exhibition Centre\; main venue
+  not stated)
+DESCRIPTION:Sustainability event and exhibition in Muscat\, 26-28 April 202
+ 7\, with a sixth-edition awards programme (ESG\, Eco-Mobility\, Rushed\, M
+ ajd Local Content). Visitor registration is interest-only for now\; ticket
+ s not yet live.\nEligibility: Visitor access\, student eligibility and pri
+ cing not stated. Awards suit corporations\, SMEs\, academic institutions a
+ nd government bodies\; no individual or student entry rules or deadlines p
+ ublished.\nEvent runs 26-28 April 2027\; the awards ceremony is on 25 Apri
+ l 2027 at OCEC per the official awards page. The main event venue is not s
+ tated on the pages seen.\nApply: https://omansustainabilityweek.com/regist
+ er-interest
+URL:https://omansustainabilityweek.com/register-interest
+CATEGORIES:Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
