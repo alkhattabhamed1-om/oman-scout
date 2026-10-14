@@ -1,0 +1,106 @@
+name: Scout
+
+# Press "Refresh" on the website (or "Run workflow" on GitHub) to start a scan.
+# A weekly scan also runs when the repository variable WEEKLY_REFRESH is set to true.
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: Claude model alias for the scan
+        required: false
+        default: sonnet
+  schedule:
+    - cron: '0 3 * * 0'
+
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    if: github.event_name == 'workflow_dispatch' || vars.WEEKLY_REFRESH == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        task: [oman-opportunities, oman-market, gcc, global]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+      - name: Check the Claude token
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            echo "::error::The secret CLAUDE_CODE_OAUTH_TOKEN is missing. See the README, step 4."
+            exit 1
+          fi
+      - name: Run the scan
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          SCOUT_MODEL: ${{ inputs.model || 'sonnet' }}
+        run: node scripts/run-task.mjs ${{ matrix.task }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: result-${{ matrix.task }}
+          path: out/${{ matrix.task }}.json
+          if-no-files-found: ignore
+          retention-days: 7
+
+  publish:
+    needs: scan
+    if: always() && needs.scan.result != 'skipped' && !cancelled()
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: result-*
+          path: out
+          merge-multiple: true
+      - name: Merge the results
+        run: node scripts/merge.mjs
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+      - name: Add Arabic text
+        continue-on-error: true
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: node scripts/translate.mjs
+      - name: Save the data
+        run: |
+          git config user.name "oman-scout[bot]"
+          git config user.email "oman-scout@users.noreply.github.com"
+          git add data/scout.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Update scout data"
+            git push
+          fi
+
+  deploy:
+    needs: publish
+    if: needs.publish.result == 'success'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Oman Scout</title>
+<meta name="description" content="Upcoming tech events, student competitions, competitor moves and funding in Oman, the GCC and worldwide, filtered for an Omani student. Refresh on demand.">
+<meta name="theme-color" content="#0d2430">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://api.github.com; base-uri 'none'; form-action 'none'">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=Readex+Pro:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+<script src="assets/boot.js"></script>
+<script src="assets/config.js"></script>
+</head>
+<body>
+<a class="skip" href="#content" data-i18n="skip">Skip to results</a>
+
+<header class="hero" id="top">
+  <svg class="contours" id="contours" aria-hidden="true" preserveAspectRatio="xMidYMid slice"></svg>
+  <div class="wrap hero-in">
+    <div class="topbar">
+      <a class="brand" href="#top" aria-label="Oman Scout">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+          <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="1.6"/>
+          <circle cx="16" cy="16" r="8.5" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".55"/>
+          <path d="M16 16 25.5 8.5" stroke="var(--amber)" stroke-width="2.2" stroke-linecap="round"/>
+          <circle cx="23.3" cy="10.3" r="2.3" fill="var(--amber)"/>
+        </svg>
+        <span class="brand-name">Oman Scout</span>
+        <span class="brand-ar" lang="ar" dir="rtl">رصد</span>
+      </a>
+      <div class="top-actions">
+        <button class="ghost-btn" id="btn-lang" type="button"></button>
+        <button class="ghost-btn icon-only" id="btn-theme" type="button" data-i18n-label="theme"></button>
+        <button class="btn btn-amber" id="btn-refresh" type="button"></button>
+      </div>
+    </div>
+
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow" data-i18n="hero.eyebrow">For an Omani tech student</p>
+        <h1 data-i18n="hero.title">What’s coming up for you</h1>
+        <p class="hero-sub" data-i18n="hero.sub"></p>
+        <p class="hero-updated" id="hero-updated"></p>
+        <p class="hero-profile" id="hero-profile"></p>
+        <div class="stats" id="stats"></div>
+      </div>
+      <div class="hero-side">
+        <section class="next" id="next" aria-labelledby="next-h"></section>
+        <section class="months" id="months" aria-labelledby="months-h"></section>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="stickybar" id="stickybar">
+  <div class="wrap stickybar-in">
+    <div class="tabs" id="tabs" role="tablist" data-i18n-label="region.label"></div>
+    <button class="btn btn-sm btn-dark" id="btn-refresh2" type="button"></button>
+  </div>
+</div>
+
+<div class="wrap shell">
+  <div class="layout">
+    <aside class="rail" id="rail" aria-label="Filters" data-i18n-label="f.title">
+      <div class="rail-head">
+        <h2 data-i18n="f.title">Filters</h2>
+        <button class="link-btn" id="f-reset" type="button" data-i18n="f.reset">Reset</button>
+        <button class="icon-btn sheet-only" id="f-close" type="button" data-i18n-label="rf.close"></button>
+      </div>
+      <fieldset class="f-group"><legend data-i18n="f.what">What</legend><div id="f-cats" class="f-list"></div></fieldset>
+      <fieldset class="f-group"><legend data-i18n="f.elig">Eligibility</legend><div id="f-elig" class="f-list"></div></fieldset>
+      <fieldset class="f-group"><legend data-i18n="f.when">When</legend><div id="f-when" class="f-list"></div></fieldset>
+      <fieldset class="f-group"><legend data-i18n="f.more">More</legend><div id="f-more" class="f-list"></div></fieldset>
+      <button class="btn btn-primary sheet-only wide" id="f-apply" type="button"></button>
+    </aside>
+    <div class="rail-scrim" id="rail-scrim" hidden></div>
+
+    <main id="content" tabindex="-1">
+      <div class="toolbar">
+        <label class="search" for="q">
+          <span class="vh" data-i18n="search.label">Search</span>
+          <svg viewBox="0 0 24 24" class="ico" aria-hidden="true"></svg>
+          <input id="q" type="search" autocomplete="off" data-i18n-ph="search.ph" placeholder="Search by name, organiser or topic">
+        </label>
+        <div class="toolbar-row">
+          <button class="btn btn-sm btn-soft sheet-only" id="btn-filters" type="button"></button>
+          <div class="seg" role="group" data-i18n-label="view.label" id="view-seg"></div>
+          <label class="sort"><span class="vh" data-i18n="sort.label">Sort</span>
+            <select id="sort"></select>
+          </label>
+          <p class="count" id="count" role="status" aria-live="polite"></p>
+        </div>
+        <div class="chips" id="active-chips"></div>
+      </div>
+      <div id="results" class="results" aria-live="polite"></div>
+    </main>
+  </div>
+</div>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <section class="foot-col">
+      <h2 data-i18n="foot.how">How this works</h2>
+      <p data-i18n="foot.how.body"></p>
+      <p class="foot-links"><a id="lnk-settings" target="_blank" rel="noopener noreferrer"></a> · <a id="lnk-run" target="_blank" rel="noopener noreferrer"></a></p>
+    </section>
+    <section class="foot-col" id="foot-status"></section>
+    <section class="foot-col" id="foot-gaps"></section>
+  </div>
+</footer>
+
+<dialog id="dlg" aria-labelledby="dlg-title"></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script type="module" src="assets/app.js"></script>
+</body>
+</html>

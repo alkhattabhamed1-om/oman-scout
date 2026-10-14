@@ -1,0 +1,34 @@
+[
+  {
+    "id": "oman-opportunities",
+    "label": "Oman: events and competitions",
+    "region": "oman",
+    "categories": ["event", "competition"],
+    "maxItems": 24,
+    "focus": "Find upcoming events (conferences, expos, summits, meetups, workshops, career fairs, webinars) and competitions (hackathons, coding contests, CTFs, AI challenges, pitch and startup competitions, olympiads, student programmes with application deadlines) in Oman, in person or online.\n\nPrioritise what a university student can join: university events (SQU, GUtech, UTAS, Middle East College, MCBS, Majan, Dhofar University, Sohar University and others), government-run contests (MTCIT, Ministry of Higher Education, Youth Center, Riyada, Oman National CERT), company-run contests (Omantel, Ooredoo, banks, Oman Data Park, NTG), and the big tech shows (COMEX and the events at OCEC, Knowledge Oasis Muscat and Sultan Qaboos Youth Complex).\n\nAlso check recurring contests whose next edition may have been announced: Oman Collegiate Programming Contest, Oman National Cybersecurity CTF, Engineer It with AI, Student Startup Programme, Techstars Startup Weekend, Global Entrepreneurship Week, Hacktivate CTF, Oman Hackathon."
+  },
+  {
+    "id": "oman-market",
+    "label": "Oman: competitors, government and funding",
+    "region": "oman",
+    "categories": ["competitor", "funding"],
+    "maxItems": 24,
+    "focus": "Find (a) competitor moves in Oman: planned launches, projects, partnerships, data-centre, cloud and AI infrastructure, state-backed tech ventures, new entrants and large tenders by firms active in tech, software and AI; and (b) government and funding items: programmes, accelerators, grants, funding calls, regulations about to take effect, national strategies and tenders.\n\nCheck MTCIT, ITA, TRA, Riyada, Oman Technology Fund, Future Fund Oman, Oman Development Bank, Oman Investment Authority (Furas), Omantel Innovation Labs, Numo, Madayn and the National Business Centre, Injaz Oman, Sharakah and the national AI and digital roadmaps.\n\nFor funding items always say who may apply. For competitor items set eligibility to na and explain in why what it means for a software business in Oman."
+  },
+  {
+    "id": "gcc",
+    "label": "GCC",
+    "region": "gcc",
+    "categories": ["event", "competition", "competitor", "funding"],
+    "maxItems": 22,
+    "focus": "Cover GCC countries other than Oman (UAE, Saudi Arabia, Qatar, Bahrain, Kuwait): events, competitions, competitor moves and funding or programmes that matter to a student or a software business in Oman.\n\nThe person only travels inside the GCC for ordinary events, so prefer public, reasonably priced events. Include flagship shows (GITEX, LEAP, FII, Dubai Future Week, Web Summit Qatar, BITEX and similar) but mark invitation-only ones check or ineligible. Include student-eligible competitions and hackathons run by GCC universities and agencies that accept participants from other Arab countries or online. Include accelerator and grant programmes only if people outside the country can apply."
+  },
+  {
+    "id": "global",
+    "label": "Global",
+    "region": "global",
+    "categories": ["event", "competition", "competitor", "funding"],
+    "maxItems": 22,
+    "focus": "Cover the rest of the world with three kinds of item.\n\n(1) Online competitions, hackathons, challenges and programmes open to students anywhere, including Omani students: Microsoft Imagine Cup, Google Solution Challenge, Google Summer of Code, MLH hackathons, Devpost hackathons, Kaggle, ICPC and ACPC, Hack Club, student programmes from Meta, OpenAI, Anthropic and Google, and UN or SDG challenges.\n\n(2) Major global tech conferences that matter to the Omani market (Microsoft Ignite, AWS re:Invent, Google Cloud Next, Oracle AI World, Web Summit, MWC). Mark in-person ones travel far, and online or hybrid ones online.\n\n(3) Competitor moves by global tech and AI companies that touch Oman or the Gulf: data centres, cloud regions, partnerships, product launches, hiring and government agreements.\n\nDo not list general world tech news with no Oman or student relevance."
+  }
+]

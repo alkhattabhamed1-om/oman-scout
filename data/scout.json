@@ -1,0 +1,1762 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-14T02:35:00Z",
+  "scanDate": "2026-10-14",
+  "prevScanDate": null,
+  "runUrl": null,
+  "profileLabel": {
+    "en": "Omani Bachelor's student in Oman, age 21–24, solo or in a team, no company, trips within the GCC only",
+    "ar": "طالب عُماني في مرحلة البكالوريوس داخل عُمان، العمر 21–24، منفردًا أو ضمن فريق، بلا شركة، ويسافر داخل الخليج فقط"
+  },
+  "tasks": {
+    "oman-opportunities": {
+      "status": "ok",
+      "updatedAt": "2026-10-14T02:35:00Z",
+      "count": 12
+    },
+    "oman-market": {
+      "status": "ok",
+      "updatedAt": "2026-10-14T02:35:00Z",
+      "count": 13
+    },
+    "gcc": {
+      "status": "ok",
+      "updatedAt": "2026-10-14T02:35:00Z",
+      "count": 10
+    },
+    "global": {
+      "status": "ok",
+      "updatedAt": "2026-10-14T02:35:00Z",
+      "count": 7
+    }
+  },
+  "gaps": [
+    "No dated Oman hackathon or pitch night open to university students was found for the next three months. Several yearly contests have no 2026–27 announcement yet.",
+    "Organiser pages for Black Hat MEA and Oracle AI World blocked automated reading, so those dates come from search results.",
+    "Tender portals, LinkedIn, Meetup and Luma were not searched, so small meetups and live tenders are probably under-covered.",
+    "This first list was compiled by hand from a research pass. The next Refresh replaces it with a full automated scan."
+  ],
+  "items": [
+    {
+      "id": "connected-banking-summit-me-2026",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "event",
+      "title": "Connected Banking Summit Middle East",
+      "summary": "Banking and fintech leaders discuss digital-first banking platforms. This is the 32nd edition.",
+      "why": "Banks are among Oman's biggest buyers of custom software, so future clients and rivals show up here.",
+      "organizer": "ICSA",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Muscat, Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "Professional summit. The price is not published, so ask the organiser about a student rate.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Organiser page",
+          "url": "https://connected-banking.com/summit/middle-east/"
+        }
+      ],
+      "tags": [
+        "banking",
+        "fintech"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "قمة الخدمات المصرفية المتصلة في الشرق الأوسط",
+        "summary": "قادة المصارف والتقنية المالية يناقشون منصات الخدمات المصرفية الرقمية. هذه هي النسخة الثانية والثلاثون.",
+        "why": "تُعدّ المصارف من أكبر مشتري البرمجيات المخصصة في عُمان، وهنا يظهر العملاء المحتملون والمنافسون.",
+        "eligibilityNote": "قمة مهنية. لم يُعلن السعر، فاسأل المنظِّم عن سعر مخفّض للطلبة."
+      }
+    },
+    {
+      "id": "cysec-oman-2026",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "event",
+      "title": "CYSEC Oman 2026",
+      "summary": "One-day cybersecurity and zero-trust conference at the Sheraton Oman Hotel, with up to 7 CPD points.",
+      "why": "Security is a fast-growing skill area, and employers from government, energy, telecom and finance attend.",
+      "organizer": "CYSEC Global Events",
+      "start": "2026-11-19",
+      "end": "2026-11-19",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Sheraton Oman Hotel, Muscat",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "Paid professional event with no student price listed. Ask the organiser.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Organiser page",
+          "url": "https://oman.cysecglobal.com/"
+        }
+      ],
+      "tags": [
+        "cybersecurity"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مؤتمر سايسك عُمان 2026",
+        "summary": "مؤتمر ليوم واحد عن الأمن السيبراني ونموذج انعدام الثقة في فندق شيراتون عُمان، ويمنح حتى 7 نقاط تطوير مهني.",
+        "why": "الأمن السيبراني مجال مهاري ينمو بسرعة، ويحضر المؤتمر أصحاب عمل من الحكومة والطاقة والاتصالات والقطاع المالي.",
+        "eligibilityNote": "فعالية مهنية مدفوعة ولا يوجد سعر للطلبة. اسأل المنظِّم."
+      }
+    },
+    {
+      "id": "exe-ciso-summit-muscat-2026",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "event",
+      "title": "EXE CISO Middle East Summit: Muscat",
+      "summary": "Closed-door meeting of senior security leaders from government and large companies.",
+      "why": "It shows what security heads in Oman worry about, but it is not aimed at students.",
+      "organizer": "EXE Globe",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Muscat, Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "ineligible",
+      "eligibilityNote": "Aimed at chief information security officers and senior security leaders.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Listing",
+          "url": "https://infosec-conferences.com/event/20261126-exe-ciso-middle-east-summit-muscat-2026/"
+        }
+      ],
+      "tags": [
+        "cybersecurity"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "قمة EXE لكبار مسؤولي أمن المعلومات في الشرق الأوسط: مسقط",
+        "summary": "لقاء مغلق لكبار قادة الأمن من الجهات الحكومية والشركات الكبرى.",
+        "why": "يُظهر ما يقلق مسؤولي الأمن في عُمان، لكنه غير موجَّه للطلبة.",
+        "eligibilityNote": "موجّه لكبار مسؤولي أمن المعلومات وقادة الأمن."
+      }
+    },
+    {
+      "id": "enterprise-ai-expo-oman-2026",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "event",
+      "title": "Enterprise AI Expo 2026 (Oman AI Summit)",
+      "summary": "Conference and exhibition on AI for companies. The dates have changed more than once: May, then 25–26 Nov, and now 2–3 Dec.",
+      "why": "It is the main announced AI event in Oman this year and shows which firms sell AI to local companies.",
+      "organizer": "The Future Event (Tazeez International Group)",
+      "start": "2026-12-02",
+      "end": "2026-12-03",
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Date has moved before. Confirm before booking.",
+      "location": "Sheraton Oman Hotel, Muscat",
+      "mode": "in-person",
+      "cost": "OMR 150 delegate pass",
+      "prize": null,
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "No student pass is listed. Ask the organiser for one.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Tickets page",
+          "url": "https://aienterpriseexpo.com/book-tickets"
+        }
+      ],
+      "tags": [
+        "AI",
+        "expo"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "معرض الذكاء الاصطناعي للمؤسسات 2026 (قمة عُمان للذكاء الاصطناعي)",
+        "summary": "مؤتمر ومعرض عن الذكاء الاصطناعي للشركات. تغيّرت مواعيده أكثر من مرة: مايو، ثم 25–26 نوفمبر، وهو الآن 2–3 ديسمبر.",
+        "why": "هو الحدث الرئيسي المعلَن للذكاء الاصطناعي في عُمان هذا العام، ويُظهر الشركات التي تبيع حلول الذكاء الاصطناعي محليًا.",
+        "eligibilityNote": "لا توجد تذكرة للطلبة. اطلب واحدة من المنظِّم."
+      }
+    },
+    {
+      "id": "comex-2027",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "event",
+      "title": "COMEX 2027 Global Technology Show",
+      "summary": "Oman's flagship technology show, 35th edition, with an Enterprise Arena, a Banking and Fintech zone and a Tech Startup Pavilion.",
+      "why": "Ministries and telcos launch platforms here, and it is the best single place to meet Omani tech employers.",
+      "organizer": "Arabian Research Bureau",
+      "start": "2027-02-01",
+      "end": "2027-02-04",
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Visitor registration opens closer to the date.",
+      "location": "Oman Convention and Exhibition Centre, Muscat",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "eligible",
+      "eligibilityNote": "Public visitor event. Students normally attend as visitors.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "COMEX",
+          "url": "https://comex-global.com/"
+        },
+        {
+          "label": "GCC Business News",
+          "url": "https://www.gccbusinessnews.com/comex-2027-tech-event-in-oman/"
+        }
+      ],
+      "tags": [
+        "expo",
+        "careers"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "معرض كومكس 2027 العالمي للتقنية",
+        "summary": "أبرز معرض تقني في عُمان، النسخة الخامسة والثلاثون، ويضم ساحة للمؤسسات ومنطقة للخدمات المصرفية والتقنية المالية وجناحًا للشركات الناشئة.",
+        "why": "تطلق الوزارات وشركات الاتصالات منصاتها هنا، وهو أفضل مكان واحد للقاء أصحاب العمل في قطاع التقنية العُماني.",
+        "eligibilityNote": "فعالية مفتوحة للزوار. يحضرها الطلبة عادةً كزوار."
+      }
+    },
+    {
+      "id": "global-entrepreneurship-week-oman-2026",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "event",
+      "title": "Global Entrepreneurship Week (Oman programme)",
+      "summary": "The worldwide week of startup events runs 16–22 Nov 2026. Oman's programme, usually run by Madayn's National Business Centre with Riyada, has not been published yet.",
+      "why": "Free workshops, SME clinics and startup weekends are the easiest way to meet Omani founders and mentors.",
+      "organizer": "Global Entrepreneurship Network, with local partners",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Global dates are set. The Oman schedule is not out yet.",
+      "location": "Muscat, Oman (to be announced)",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "likely",
+      "eligibilityNote": "Past Omani editions were open to aspiring entrepreneurs.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Global Entrepreneurship Network",
+          "url": "https://www.genglobal.org/gew-page/464"
+        }
+      ],
+      "tags": [
+        "startups"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "الأسبوع العالمي لريادة الأعمال (برنامج عُمان)",
+        "summary": "يُقام أسبوع فعاليات الشركات الناشئة عالميًا من 16 إلى 22 نوفمبر 2026. أما برنامج عُمان، الذي ينظمه عادةً المركز الوطني للأعمال التابع لمدائن مع ريادة، فلم يُنشر بعد.",
+        "why": "ورش العمل المجانية وعيادات المنشآت الصغيرة وعطلات نهاية الأسبوع للشركات الناشئة هي أسهل طريق للقاء المؤسسين والمرشدين العُمانيين.",
+        "eligibilityNote": "كانت النسخ العُمانية السابقة مفتوحة لراغبي دخول مجال ريادة الأعمال."
+      }
+    },
+    {
+      "id": "nbo-hackathon",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "competition",
+      "title": "NBO Hackathon",
+      "summary": "A 48-hour hackathon on pre-set fintech themes for university teams, organisations and startups. Registration is by an online form.",
+      "why": "A rare Omani hackathon with a live registration form, run by a major bank.",
+      "organizer": "National Bank of Oman",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "No date published on the page",
+      "location": "Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": "Prizes for finalists (not specified)",
+      "travel": "local",
+      "eligibility": "likely",
+      "eligibilityNote": "The page says participants come from universities, organisations and startups. Team size and age rules are not stated.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "NBO page",
+          "url": "https://www.nbo.om/en/Pages/Competitions/NBO-Hackathon.aspx"
+        }
+      ],
+      "tags": [
+        "hackathon",
+        "fintech"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "هاكاثون بنك عُمان الوطني",
+        "summary": "هاكاثون لمدة 48 ساعة حول محاور تقنية مالية محددة، لفرق الجامعات والمؤسسات والشركات الناشئة. التسجيل عبر نموذج إلكتروني.",
+        "why": "هاكاثون عُماني نادر يتيح التسجيل حاليًا وينظمه بنك كبير.",
+        "eligibilityNote": "تذكر الصفحة أن المشاركين من الجامعات والمؤسسات والشركات الناشئة. لم تُذكر شروط حجم الفريق أو العمر."
+      }
+    },
+    {
+      "id": "oman-national-cybersecurity-ctf",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "competition",
+      "title": "Oman National Cybersecurity CTF",
+      "summary": "Capture-the-flag contest: an online individual qualifier, then a team final in Muscat. The 2025 edition ran 2–4 May (qualifier) and 13 May (final).",
+      "why": "A hands-on way to show security skills to Oman's national CERT and to employers.",
+      "organizer": "CyberTalents with Oman National CERT",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "2026 edition not announced yet",
+      "location": "Online, then Muscat",
+      "mode": "hybrid",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "likely",
+      "eligibilityNote": "Earlier editions needed teams of 2–4 with at least half Omani undergraduates. Check the 2026 rules.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "CyberTalents 2025 qualifier",
+          "url": "https://cybertalents.com/competitions/oman-national-cybersecurity-ctf-2025-qualification-round"
+        }
+      ],
+      "tags": [
+        "cybersecurity",
+        "ctf"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "بطولة عُمان الوطنية للأمن السيبراني (CTF)",
+        "summary": "مسابقة التقاط العلم: تصفيات فردية عبر الإنترنت ثم نهائي للفرق في مسقط. أُقيمت نسخة 2025 في 2–4 مايو (التصفيات) و13 مايو (النهائي).",
+        "why": "طريقة عملية لإظهار مهاراتك الأمنية للفريق الوطني للاستجابة لحوادث الحاسب ولأصحاب العمل.",
+        "eligibilityNote": "اشترطت النسخ السابقة فرقًا من 2–4 أعضاء نصفهم على الأقل من طلبة البكالوريوس العُمانيين. تحقق من شروط 2026."
+      }
+    },
+    {
+      "id": "oman-collegiate-programming-contest",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "competition",
+      "title": "Oman Collegiate Programming Contest",
+      "summary": "Yearly team programming contest for university students. The 2025 edition had 194 contestants in 65 teams from 21 institutions, and the top teams went on to the regional contest in Egypt.",
+      "why": "It is the route into Arab and world-level programming contests (ACPC and ICPC).",
+      "organizer": "Ministry of Transport, Communications and IT (MTCIT)",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Next edition not announced. The 2025 edition ended in April.",
+      "location": "Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "eligible",
+      "eligibilityNote": "University and college students competing in teams.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "MTCIT news, 2025 edition",
+          "url": "https://prod.mtcit.gov.om/ITAPortal//MediaCenter/NewsDetail.aspx?NID=171381"
+        }
+      ],
+      "tags": [
+        "programming",
+        "ICPC"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مسابقة عُمان للبرمجة بين الكليات والجامعات",
+        "summary": "مسابقة سنوية للفرق في البرمجة لطلبة الجامعات. شارك في نسخة 2025 نحو 194 متسابقًا ضمن 65 فريقًا من 21 مؤسسة، وتأهلت أفضل الفرق للمسابقة الإقليمية في مصر.",
+        "why": "هي الطريق إلى مسابقات البرمجة العربية والعالمية (ACPC وICPC).",
+        "eligibilityNote": "طلبة الجامعات والكليات ضمن فرق."
+      }
+    },
+    {
+      "id": "mtcit-engineer-it-with-ai",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "competition",
+      "title": "Engineer It with AI (MTCIT)",
+      "summary": "National AI contest with prizes up to RO 13,000 for teams of up to four. The 2026 edition took registrations until 29 May and wrapped up in September.",
+      "why": "If MTCIT repeats it, a team of classmates could compete for national prizes, mentoring and a chance to deploy their project.",
+      "organizer": "Ministry of Transport, Communications and IT (MTCIT)",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "2027 edition not announced",
+      "location": "Oman",
+      "mode": "hybrid",
+      "cost": null,
+      "prize": "Up to RO 13,000 shared among winners",
+      "travel": "local",
+      "eligibility": "likely",
+      "eligibilityNote": "Open to innovators across Oman in teams of up to four, capped at 25 teams.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Muscat Daily",
+          "url": "https://www.muscatdaily.com/2026/05/02/mtcit-announces-ai-contest-offering-ro13000-in-prizes/"
+        }
+      ],
+      "tags": [
+        "AI",
+        "contest"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "هندس بالذكاء الاصطناعي (وزارة النقل والاتصالات وتقنية المعلومات)",
+        "summary": "مسابقة وطنية للذكاء الاصطناعي بجوائز تصل إلى 13 ألف ريال عُماني لفرق من أربعة أعضاء كحد أقصى. قبلت نسخة 2026 التسجيل حتى 29 مايو وانتهت في سبتمبر.",
+        "why": "إذا كررتها الوزارة، يمكن لفريق من زملائك التنافس على جوائز وطنية وإرشاد وفرصة لتطبيق مشروعهم.",
+        "eligibilityNote": "مفتوحة للمبتكرين في أنحاء عُمان ضمن فرق من أربعة أعضاء كحد أقصى، وبحد أقصى 25 فريقًا."
+      }
+    },
+    {
+      "id": "techstars-startup-weekend-oman-universities",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "competition",
+      "title": "Techstars Startup Weekend (university editions)",
+      "summary": "54-hour startup competitions hosted by Omani colleges. MCBS's 2026 edition drew 80+ registrations from about eight institutions and produced ten startup ideas.",
+      "why": "A low-pressure way to pitch an idea and find teammates.",
+      "organizer": "MCBS, GUtech and partners",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Next edition not announced",
+      "location": "Muscat, Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "likely",
+      "eligibilityNote": "Run for students at Omani higher-education institutions. The host decides who can join.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "GUtech",
+          "url": "https://www.gutech.edu.om/?p=105186"
+        }
+      ],
+      "tags": [
+        "startups",
+        "pitch"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "عطلة نهاية أسبوع للشركات الناشئة من تكستارز (نسخ الجامعات)",
+        "summary": "مسابقات للشركات الناشئة مدتها 54 ساعة تستضيفها كليات عُمانية. جذبت نسخة كلية الأعمال والعلوم الحديثة 2026 أكثر من 80 مسجّلًا من نحو ثماني مؤسسات وأنتجت عشر أفكار لشركات ناشئة.",
+        "why": "طريقة هادئة لعرض فكرتك والعثور على زملاء في الفريق.",
+        "eligibilityNote": "تُقام لطلبة مؤسسات التعليم العالي في عُمان، والجهة المستضيفة هي من يحدد المشاركين."
+      }
+    },
+    {
+      "id": "national-olympiad-student-innovation-ai",
+      "task": "oman-opportunities",
+      "region": "oman",
+      "category": "competition",
+      "title": "National Olympiad for Student Scientific Innovation, Robotics and AI",
+      "summary": "School olympiad with categories including AI applications and cybersecurity. The 2025–26 edition was launched on 1 December 2025.",
+      "why": "It shows where the government invests in AI talent, though it is not open to university students.",
+      "organizer": "Ministry of Education",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Next edition not announced",
+      "location": "Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "ineligible",
+      "eligibilityNote": "For school students.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Muscat Daily",
+          "url": "https://www.muscatdaily.com/2025/12/01/oman-launches-national-olympiad-for-student-scientific-innovation-robotics-and-ai/"
+        }
+      ],
+      "tags": [
+        "school",
+        "robotics"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "الأولمبياد الوطني للابتكار العلمي والروبوتات والذكاء الاصطناعي لدى الطلبة",
+        "summary": "أولمبياد للمدارس بفئات منها تطبيقات الذكاء الاصطناعي والأمن السيبراني. أُطلقت نسخة 2025–2026 في 1 ديسمبر 2025.",
+        "why": "يُظهر أين تستثمر الحكومة في مواهب الذكاء الاصطناعي، لكنه غير مفتوح لطلبة الجامعات.",
+        "eligibilityNote": "لطلبة المدارس."
+      }
+    },
+    {
+      "id": "student-startup-programme-oman",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "Student Startup Programme (Ministry of Higher Education)",
+      "summary": "Yearly programme that helps students at Omani higher-education institutions develop startup ideas. The 8th edition took online registrations through the Oman Research Portal until 31 May 2025.",
+      "why": "It is built for students at Omani colleges and universities, which makes it one of the best-matched programmes here.",
+      "organizer": "Ministry of Higher Education, Research and Innovation",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "No 2026 call found yet",
+      "location": "Oman",
+      "mode": "hybrid",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "eligible",
+      "eligibilityNote": "For students at Omani higher-education institutions.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "Times of Oman",
+          "url": "https://timesofoman.com/article/155746-oman-launches-8th-edition-of-student-startup-programme"
+        }
+      ],
+      "tags": [
+        "startups",
+        "students"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "برنامج الشركات الناشئة للطلبة (وزارة التعليم العالي)",
+        "summary": "برنامج سنوي يساعد طلبة مؤسسات التعليم العالي في عُمان على تطوير أفكار الشركات الناشئة. قبلت النسخة الثامنة التسجيل إلكترونيًا عبر بوابة البحث العلمي في عُمان حتى 31 مايو 2025.",
+        "why": "صُمم لطلبة الكليات والجامعات العُمانية، ما يجعله من أنسب البرامج هنا لك.",
+        "eligibilityNote": "لطلبة مؤسسات التعليم العالي في عُمان."
+      }
+    },
+    {
+      "id": "omantel-innovation-labs-cohort-8",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "Omantel Innovation Labs: Cohort 8",
+      "summary": "Omantel's startup accelerator chose eight startups for Cohort 7 in April 2026. Applications for the next cohort are expected later in 2026, with no confirmed date.",
+      "why": "A route to mentors and a large local customer if you build a startup around your project.",
+      "organizer": "Omantel",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Applications expected later in 2026 (unconfirmed)",
+      "location": "Muscat, Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "Aimed at startups, not individual students. Ask whether an early team qualifies.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "Zawya press release",
+          "url": "https://www.zawya.com/en/press-release/events-conferences/omantel-innovation-labs-and-sme-development-authority-riyada-advance-ai-entrepreneurship-through-2026-salalah-ai-hackathon-475720"
+        }
+      ],
+      "tags": [
+        "accelerator",
+        "startups"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مختبرات الابتكار في عُمانتل: الدفعة الثامنة",
+        "summary": "اختار مسرّع عُمانتل للشركات الناشئة ثماني شركات للدفعة السابعة في أبريل 2026. يُتوقع فتح باب التقديم للدفعة التالية في وقت لاحق من 2026 دون موعد مؤكد.",
+        "why": "طريق إلى مرشدين وعميل محلي كبير إذا أسست شركة ناشئة حول مشروعك.",
+        "eligibilityNote": "موجّه للشركات الناشئة لا للطلبة الأفراد. اسأل إن كان الفريق المبكر مؤهلًا."
+      }
+    },
+    {
+      "id": "omantel-ai-startups-program",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "Omantel AI Startups Program",
+      "summary": "Launched in May 2026 to connect AI startups with Omantel's own teams and real operating environments. No deadline is published, and interested teams contact Omantel.",
+      "why": "A way to test an AI product inside a real telecom company.",
+      "organizer": "Omantel",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Rolling, no deadline published",
+      "location": "Muscat, Oman",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "Startup-focused. A student team with a working prototype could ask to join.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "TechAfrica News",
+          "url": "https://techafricanews.com/2026/05/18/omantel-unveils-ai-centre-and-startup-program-to-drive-omans-digital-transformation/"
+        }
+      ],
+      "tags": [
+        "AI",
+        "startups"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "برنامج عُمانتل للشركات الناشئة في الذكاء الاصطناعي",
+        "summary": "أُطلق في مايو 2026 لربط الشركات الناشئة في الذكاء الاصطناعي بفرق عُمانتل وبيئات التشغيل الفعلية. لا يوجد موعد نهائي معلن، ويتواصل المهتمون مع عُمانتل.",
+        "why": "فرصة لتجربة منتج ذكاء اصطناعي داخل شركة اتصالات حقيقية.",
+        "eligibilityNote": "موجّه للشركات الناشئة. يمكن لفريق طلابي لديه نموذج أولي يعمل أن يطلب الانضمام."
+      }
+    },
+    {
+      "id": "otf-techween",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "OTF Techween pre-seed programme",
+      "summary": "Oman Technology Fund's pre-seed track at Knowledge Oasis Muscat. One guide lists USD 50,000 for 7% equity and a 12-week mentoring track.",
+      "why": "Pre-seed money is the earliest funding stage for a product built by students.",
+      "organizer": "Oman Technology Fund",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Rolling. The H2 2026 intake is not confirmed.",
+      "location": "Knowledge Oasis Muscat",
+      "mode": "in-person",
+      "cost": null,
+      "prize": "USD 50,000 for 7% equity (unverified)",
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "Terms come from one secondary guide and the OTF page returned an error. Contact OTF to confirm.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "AI in Oman guide",
+          "url": "https://aiinoman.com/blog/9-startup-ai-programs-open-in-oman-this-fall-2026"
+        }
+      ],
+      "tags": [
+        "funding",
+        "accelerator"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "برنامج تكوين لمرحلة ما قبل التأسيس (صندوق عُمان للتكنولوجيا)",
+        "summary": "مسار ما قبل التأسيس في صندوق عُمان للتكنولوجيا بواحة المعرفة مسقط. يذكر أحد الأدلة 50 ألف دولار مقابل 7% من الأسهم ومسار إرشاد لمدة 12 أسبوعًا.",
+        "why": "التمويل المبكر هو أول مراحل التمويل لمنتج يبنيه طلبة.",
+        "eligibilityNote": "الشروط من دليل ثانوي واحد، وأعادت صفحة الصندوق خطأً. تواصل مع الصندوق للتأكد."
+      }
+    },
+    {
+      "id": "numo-microsoft-accelerator-next-cohort",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "Numo–Microsoft for Startups Accelerator",
+      "summary": "Free Azure credits, Microsoft AI tools and go-to-market mentoring for Omani ICT startups. The third cohort (66 companies) is closed and the next one is not announced.",
+      "why": "Free cloud credits can cover the running cost of a student project.",
+      "organizer": "MTCIT with Microsoft",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Next cohort not announced",
+      "location": "Oman",
+      "mode": "hybrid",
+      "cost": null,
+      "prize": "Azure credits and mentoring",
+      "travel": "local",
+      "eligibility": "check",
+      "eligibilityNote": "Applications go through the SAS platform. Riyada Card holders get priority.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "MTCIT Numo",
+          "url": "https://mtcit.gov.om/numo"
+        }
+      ],
+      "tags": [
+        "accelerator",
+        "cloud"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مسرّع نمو ومايكروسوفت للشركات الناشئة",
+        "summary": "أرصدة مجانية على Azure وأدوات ذكاء اصطناعي من مايكروسوفت وإرشاد للدخول إلى السوق للشركات الناشئة العُمانية في تقنية المعلومات. الدفعة الثالثة (66 شركة) أُغلقت ولم تُعلن الدفعة التالية.",
+        "why": "قد تغطي أرصدة السحابة المجانية تكلفة تشغيل مشروع طلابي.",
+        "eligibilityNote": "التقديم عبر منصة ساس. أصحاب بطاقة ريادة لهم الأولوية."
+      }
+    },
+    {
+      "id": "sas-excellence-initiative",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "SAS Excellence Initiative",
+      "summary": "Up to RO 1m in financing, wage support for up to 40 Omani employees and priority in selected government tenders.",
+      "why": "It shows what the government will fund once a tech company has grown.",
+      "organizer": "MTCIT",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Rolling. No cutoff announced.",
+      "location": "Oman",
+      "mode": "online",
+      "cost": null,
+      "prize": "Up to RO 1m financing",
+      "travel": "online",
+      "eligibility": "ineligible",
+      "eligibilityNote": "For mature, fast-growing Omani tech companies, not first-year startups or individuals.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "TechAfrica News",
+          "url": "https://techafricanews.com/2026/06/05/oman-unveils-new-programme-to-strengthen-digital-sovereignty-and-tech-innovation/"
+        }
+      ],
+      "tags": [
+        "funding"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مبادرة ساس للتميّز",
+        "summary": "تمويل يصل إلى مليون ريال عُماني، ودعم رواتب لما يصل إلى 40 موظفًا عُمانيًا، وأولوية في مناقصات حكومية مختارة.",
+        "why": "تُظهر ما ستموّله الحكومة عندما تنمو شركة التقنية.",
+        "eligibilityNote": "للشركات التقنية العُمانية الناضجة سريعة النمو، لا للشركات الناشئة في سنتها الأولى ولا للأفراد."
+      }
+    },
+    {
+      "id": "furas-oia-tenders",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "Furas tender pipeline (Oman Investment Authority)",
+      "summary": "2,295 planned tenders worth about RO 2.55bn, visible 3–6 months before bidding opens.",
+      "why": "A preview of the IT work state-owned companies plan to buy.",
+      "organizer": "Oman Investment Authority",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Rolling. Bid windows expected from about Q1 2027.",
+      "location": "Online",
+      "mode": "online",
+      "cost": null,
+      "prize": null,
+      "travel": "online",
+      "eligibility": "ineligible",
+      "eligibilityNote": "Tenders are for registered suppliers, not individuals.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196685/business/economy/oia-tenders-offer-ro-255-billion-opportunities"
+        }
+      ],
+      "tags": [
+        "tenders"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "منصة فرص للمناقصات (جهاز الاستثمار العُماني)",
+        "summary": "2,295 مناقصة مخطط لها بقيمة نحو 2.55 مليار ريال عُماني، تظهر قبل فتح باب العروض بـ3–6 أشهر.",
+        "why": "نظرة مسبقة على أعمال تقنية المعلومات التي تخطط الشركات المملوكة للدولة لشرائها.",
+        "eligibilityNote": "المناقصات للموردين المسجلين لا للأفراد."
+      }
+    },
+    {
+      "id": "tra-systems-permit-regulation",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "TRA permit rules for systems development and security services",
+      "summary": "Draft rules would require a TRA permit for firms that integrate or develop systems, or sell information-security services, for licensed networks. Comments closed on 27 August, and the final text is pending.",
+      "why": "If you start a software company later, these rules decide whether you need a permit.",
+      "organizer": "Telecommunications Regulatory Authority (TRA)",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Final text and start date not announced",
+      "location": "Oman",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "na",
+      "eligibilityNote": "For awareness. It applies to companies, not to individuals.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Muscat Daily",
+          "url": "https://www.muscatdaily.com/2026/07/27/tra-seeks-public-feedback-on-telecom-licensing-rules/"
+        }
+      ],
+      "tags": [
+        "regulation"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "قواعد هيئة تنظيم الاتصالات لتصاريح تطوير الأنظمة وخدمات الأمن",
+        "summary": "تشترط المسودة تصريحًا من الهيئة للشركات التي تدمج الأنظمة أو تطورها أو تبيع خدمات أمن المعلومات للشبكات المرخصة. أُغلق باب الملاحظات في 27 أغسطس والنص النهائي لم يصدر بعد.",
+        "why": "إذا أسست شركة برمجيات لاحقًا، فهذه القواعد تحدد هل تحتاج إلى تصريح.",
+        "eligibilityNote": "للاطلاع. تنطبق على الشركات لا على الأفراد."
+      }
+    },
+    {
+      "id": "national-ai-programme-successor",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "funding",
+      "title": "National AI programme: what comes after 2026",
+      "summary": "The 2024–2026 National Programme for AI and Advanced Digital Technologies ends this year. A 2026–2030 roadmap with a national AI platform and regional digital hubs has been reported.",
+      "why": "New national programmes usually bring new training, contests and procurement.",
+      "organizer": "MTCIT",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Successor programme not yet announced",
+      "location": "Oman",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "na",
+      "eligibilityNote": "For awareness.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "MTCIT, 2024–2026 programme",
+          "url": "https://mtcit.gov.om/media-4/news-announcements-11/news-85/oman-ai-digital-future-program-20242026-171"
+        },
+        {
+          "label": "MEA Tech Watch, roadmap",
+          "url": "https://meatechwatch.com/2026/03/12/oman-unveils-2030-digital-roadmap-provincial-tech-hubs-and-national-ai-platform/"
+        }
+      ],
+      "tags": [
+        "AI",
+        "policy"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "البرنامج الوطني للذكاء الاصطناعي: ماذا بعد 2026",
+        "summary": "ينتهي هذا العام البرنامج الوطني للذكاء الاصطناعي والتقنيات الرقمية المتقدمة 2024–2026. وتشير تقارير إلى خارطة طريق 2026–2030 تتضمن منصة وطنية للذكاء الاصطناعي ومراكز رقمية إقليمية.",
+        "why": "تجلب البرامج الوطنية الجديدة عادةً تدريبًا ومسابقات ومشتريات جديدة.",
+        "eligibilityNote": "للاطلاع."
+      }
+    },
+    {
+      "id": "o-green-ai-data-centres-2028",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "competitor",
+      "title": "O-Green: 200 MW of AI-ready data centres",
+      "summary": "O-Green targets 200 MW of AI-ready data-centre capacity by 2028. It is a stated goal, not a signed deal.",
+      "why": "More local cloud and AI capacity could lower hosting costs and attract new rivals.",
+      "organizer": "O-Green",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Target: in service by 2028",
+      "location": "Oman",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "na",
+      "eligibilityNote": "Market intelligence.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196097/business/energy/o-green-targets-200-mw-of-ai-ready-data-centre-capacity-by-2028"
+        }
+      ],
+      "tags": [
+        "data centre",
+        "cloud"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "أو-غرين: 200 ميجاواط من مراكز البيانات الجاهزة للذكاء الاصطناعي",
+        "summary": "تستهدف أو-غرين سعة 200 ميجاواط من مراكز البيانات الجاهزة للذكاء الاصطناعي بحلول 2028. هذا هدف معلَن لا اتفاق موقَّع.",
+        "why": "قد تخفض السعة المحلية الأكبر للسحابة والذكاء الاصطناعي تكاليف الاستضافة وتجذب منافسين جددًا.",
+        "eligibilityNote": "معلومات عن السوق."
+      }
+    },
+    {
+      "id": "oman-ai-special-economic-zone",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "competitor",
+      "title": "AI Special Economic Zone near Muscat airport",
+      "summary": "Royal Decree 50/2026 created the zone. Phase 1 construction is expected from Q4 2027, with a data centre, cloud and labs planned, and talks with Microsoft and IBM are reported.",
+      "why": "A future cluster of global AI and cloud firms on your doorstep, with 100% foreign ownership allowed.",
+      "organizer": "Afouq Investment and Development United",
+      "start": "2027-10-01",
+      "end": null,
+      "deadline": null,
+      "approx": true,
+      "dateNote": "Construction expected from Q4 2027",
+      "location": "Muscat, Oman",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "na",
+      "eligibilityNote": "Market intelligence.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "MENA Startup Digest",
+          "url": "https://menastartupdigest.com/omans-ai-special-economic-zone-to-attract-ro-106m-construction-starts-in-2027/"
+        }
+      ],
+      "tags": [
+        "AI",
+        "infrastructure"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "المنطقة الاقتصادية الخاصة للذكاء الاصطناعي قرب مطار مسقط",
+        "summary": "أنشأ المرسوم السلطاني 50/2026 المنطقة. يُتوقع بدء إنشاء المرحلة الأولى من الربع الأخير لعام 2027، مع مركز بيانات وسحابة ومختبرات، وتشير التقارير إلى محادثات مع مايكروسوفت وآي بي إم.",
+        "why": "تجمّع مستقبلي لشركات الذكاء الاصطناعي والسحابة العالمية بقربك، مع السماح بالتملك الأجنبي الكامل.",
+        "eligibilityNote": "معلومات عن السوق."
+      }
+    },
+    {
+      "id": "omantel-ai-centre-otech",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "competitor",
+      "title": "Omantel AI Centre of Excellence and Otech sovereign cloud",
+      "summary": "Omantel launched an AI centre and the Otech sovereign cloud platform (11 Feb 2026), and runs an AI startups programme.",
+      "why": "The incumbent telco is bundling cloud, AI and a startup pipeline, so it both competes and partners in your space.",
+      "organizer": "Omantel",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Next phase not announced",
+      "location": "Oman",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "na",
+      "eligibilityNote": "Market intelligence.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Oman Observer",
+          "url": "https://omanobserver.om/article/1184257/business/economy/omantel-launches-o-tech-to-drive-omans-digital-transformation"
+        }
+      ],
+      "tags": [
+        "AI",
+        "cloud"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مركز التميّز للذكاء الاصطناعي في عُمانتل وسحابة أوتك السيادية",
+        "summary": "أطلقت عُمانتل مركزًا للذكاء الاصطناعي ومنصة أوتك للسحابة السيادية (11 فبراير 2026)، وتدير برنامجًا للشركات الناشئة في الذكاء الاصطناعي.",
+        "why": "شركة الاتصالات الرائدة تجمع السحابة والذكاء الاصطناعي ومسار الشركات الناشئة، فهي منافس وشريك في مجالك.",
+        "eligibilityNote": "معلومات عن السوق."
+      }
+    },
+    {
+      "id": "terminal-11-xcyber-future-fund",
+      "task": "oman-market",
+      "region": "oman",
+      "category": "competitor",
+      "title": "Terminal 11 and XCyber (Future Fund Oman)",
+      "summary": "A state-backed innovation hub and a sovereign AI cybersecurity company, announced on 15 July 2026 in a USD 1.744bn project package.",
+      "why": "A new venue for startups and a state-backed competitor in AI security.",
+      "organizer": "Future Fund Oman",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "No launch dates published",
+      "location": "Oman",
+      "mode": null,
+      "cost": null,
+      "prize": null,
+      "travel": "local",
+      "eligibility": "na",
+      "eligibilityNote": "Market intelligence.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/omans-us5-2-billion-future-fund-unveils-us1-744-billion-in-projects-302826722.html"
+        }
+      ],
+      "tags": [
+        "cybersecurity",
+        "AI"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "المحطة 11 وإكس سايبر (صندوق المستقبل العُماني)",
+        "summary": "مركز ابتكار مدعوم من الدولة وشركة أمن سيبراني سيادية بالذكاء الاصطناعي، أُعلن عنهما في 15 يوليو 2026 ضمن حزمة مشاريع بقيمة 1.744 مليار دولار.",
+        "why": "مساحة جديدة للشركات الناشئة ومنافس مدعوم من الدولة في أمن الذكاء الاصطناعي.",
+        "eligibilityNote": "معلومات عن السوق."
+      }
+    },
+    {
+      "id": "fii10-riyadh-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "FII10 (Future Investment Initiative)",
+      "summary": "Saudi Arabia's large investor summit. Humain's 'Limitless' AI fund is reported to launch around it.",
+      "why": "It sets the tone for AI money across the region.",
+      "organizer": "FII Institute",
+      "start": "2026-10-26",
+      "end": "2026-10-29",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Riyadh, Saudi Arabia",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "check",
+      "eligibilityNote": "Mostly an invitation-based investor forum. Public access is limited.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Amlak",
+          "url": "https://amlak.net.sa/en/107443/"
+        }
+      ],
+      "tags": [
+        "investment",
+        "AI"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مبادرة مستقبل الاستثمار (FII10)",
+        "summary": "قمة الاستثمار الكبرى في السعودية. يُتوقع إطلاق صندوق «ليمتلس» للذكاء الاصطناعي التابع لهيوماين في نطاقها.",
+        "why": "تحدد اتجاه أموال الذكاء الاصطناعي في المنطقة.",
+        "eligibilityNote": "منتدى للمستثمرين يعتمد في الغالب على الدعوات، والحضور العام محدود."
+      }
+    },
+    {
+      "id": "dubai-ai-festival-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "Dubai AI Festival",
+      "summary": "Two-day AI festival with vendors, startups and investors.",
+      "why": "A cheap way to meet AI companies and recruiters a short flight from Muscat.",
+      "organizer": "Dubai AI Campus with Terrapinn",
+      "start": "2026-10-26",
+      "end": "2026-10-27",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Dubai World Trade Centre, Dubai",
+      "mode": "in-person",
+      "cost": "Event pass reported at USD 50",
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "eligible",
+      "eligibilityNote": "Open registration. Check for a student rate.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Dubai AI Festival",
+          "url": "https://dubaiaifestival.com/"
+        }
+      ],
+      "tags": [
+        "AI",
+        "careers"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مهرجان دبي للذكاء الاصطناعي",
+        "summary": "مهرجان ليومين للذكاء الاصطناعي بمشاركة شركات وناشئين ومستثمرين.",
+        "why": "طريقة منخفضة التكلفة للقاء شركات الذكاء الاصطناعي وجهات التوظيف على بعد رحلة قصيرة من مسقط.",
+        "eligibilityNote": "التسجيل مفتوح. تحقق من وجود سعر للطلبة."
+      }
+    },
+    {
+      "id": "bitex-meet-ict-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "BITEX and MEET ICT conference",
+      "summary": "Bahrain's ICT trade show and conference, 12th edition, with an AI theme.",
+      "why": "The closest GCC tech show to Oman, with Gulf government buyers.",
+      "organizer": "BITEX",
+      "start": "2026-10-27",
+      "end": "2026-10-28",
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Some listings show 25–27 Nov, but the organiser says 27–28 Oct.",
+      "location": "Gulf Convention Centre, Manama, Bahrain",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "likely",
+      "eligibilityNote": "Visitor registration is open on the organiser's site.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "BITEX",
+          "url": "https://www.bitexbh.com"
+        }
+      ],
+      "tags": [
+        "ICT",
+        "expo"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "بايتكس ومؤتمر ميت للاتصالات وتقنية المعلومات",
+        "summary": "معرض ومؤتمر البحرين لتقنية المعلومات والاتصالات، النسخة الثانية عشرة، بمحور الذكاء الاصطناعي.",
+        "why": "أقرب معرض تقني خليجي إلى عُمان، ويحضره مشترون من حكومات الخليج.",
+        "eligibilityNote": "تسجيل الزوار مفتوح على موقع المنظِّم."
+      }
+    },
+    {
+      "id": "dubai-fintech-summit-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "Dubai FinTech Summit",
+      "summary": "Fintech summit held during Dubai Future Finance Week (2–6 Nov).",
+      "why": "Oman just launched a national fintech strategy, and this shows where the region is heading.",
+      "organizer": "DIFC",
+      "start": "2026-11-02",
+      "end": "2026-11-03",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Madinat Jumeirah, Dubai",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "check",
+      "eligibilityNote": "Professional event. Check for student passes.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Dubai FinTech Summit",
+          "url": "https://dubaifintechsummit.com/"
+        }
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "قمة دبي للتقنية المالية",
+        "summary": "قمة للتقنية المالية تُعقد ضمن أسبوع دبي لمستقبل التمويل (2–6 نوفمبر).",
+        "why": "أطلقت عُمان للتو استراتيجيتها الوطنية للتقنية المالية، وهذه القمة تُظهر وجهة المنطقة.",
+        "eligibilityNote": "فعالية مهنية. تحقق من وجود تذاكر للطلبة."
+      }
+    },
+    {
+      "id": "dubai-future-week-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "Dubai Future Week",
+      "summary": "Government-led future-tech week with forums, pitches and challenges. More than 10,000 participants are expected.",
+      "why": "A mix of public showcases and challenges that is easy to reach from Oman.",
+      "organizer": "Dubai Future Foundation",
+      "start": "2026-11-18",
+      "end": "2026-11-21",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Emirates Towers and Museum of the Future, Dubai",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "likely",
+      "eligibilityNote": "Some forums are by invitation. Public sessions are open.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Dubai Media Office",
+          "url": "https://mediaoffice.ae/en/news/2026/september/01-09/under-hamdan-bin-mohammeds-directives-dubai-future-week-to-be-held-from-18-to-21-november-2026"
+        }
+      ],
+      "tags": [
+        "future tech"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "أسبوع دبي للمستقبل",
+        "summary": "أسبوع حكومي لتقنيات المستقبل يضم منتديات وعروضًا تقديمية وتحديات. يُتوقع مشاركة أكثر من 10 آلاف شخص.",
+        "why": "مزيج من العروض العامة والتحديات يسهل الوصول إليه من عُمان.",
+        "eligibilityNote": "بعض المنتديات بدعوة فقط، أما الجلسات العامة فمفتوحة."
+      }
+    },
+    {
+      "id": "black-hat-mea-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "Black Hat MEA 2026",
+      "summary": "The region's largest cybersecurity conference.",
+      "why": "Strong for security careers and CTF-style contests.",
+      "organizer": "Black Hat MEA",
+      "start": "2026-12-01",
+      "end": "2026-12-03",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Riyadh Exhibition and Convention Centre, Malham",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "check",
+      "eligibilityNote": "Paid professional event. Check for student tickets.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Black Hat MEA",
+          "url": "https://blackhatmea.com/faq"
+        }
+      ],
+      "tags": [
+        "cybersecurity"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "بلاك هات الشرق الأوسط وأفريقيا 2026",
+        "summary": "أكبر مؤتمر للأمن السيبراني في المنطقة.",
+        "why": "ممتاز للمسار المهني في الأمن ولمسابقات من نوع CTF.",
+        "eligibilityNote": "فعالية مهنية مدفوعة. تحقق من تذاكر الطلبة."
+      }
+    },
+    {
+      "id": "gitex-global-2026",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "GITEX Global 2026",
+      "summary": "The region's biggest vendor, government and startup show. Summit on 7 Dec, expo 8–11 Dec, and the first edition held in December.",
+      "why": "Competitors announce products here, and many companies recruit on site.",
+      "organizer": "Dubai World Trade Centre",
+      "start": "2026-12-07",
+      "end": "2026-12-11",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Expo City Dubai",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "likely",
+      "eligibilityNote": "Visitor registration runs through the GITEX site. Ticket prices are not shown.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "GITEX Global",
+          "url": "https://www.gitex.com/gitex-global-2026"
+        }
+      ],
+      "tags": [
+        "expo",
+        "careers"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "جايتكس غلوبال 2026",
+        "summary": "أكبر معرض في المنطقة للشركات والحكومات والناشئين. القمة في 7 ديسمبر والمعرض في 8–11 ديسمبر، وهي أول نسخة تُقام في ديسمبر.",
+        "why": "تعلن الشركات المنافسة عن منتجاتها هنا، وكثير منها يوظّف في الموقع.",
+        "eligibilityNote": "تسجيل الزوار عبر موقع جايتكس. لم تُعرض أسعار التذاكر."
+      }
+    },
+    {
+      "id": "web-summit-qatar-2027",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "Web Summit Qatar 2027",
+      "summary": "Fourth edition, with a 'Road to Web Summit Qatar' startup bootcamp beforehand.",
+      "why": "It overlaps COMEX (1–4 Feb), so you would pick one. Better for startup and investor meetings.",
+      "organizer": "Web Summit",
+      "start": "2027-01-31",
+      "end": "2027-02-03",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Doha Exhibition and Convention Centre, Qatar",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "likely",
+      "eligibilityNote": "Ticketed. Startup and student options are usually offered.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/732461/qatar/over-70-global-partners-lock-in-for-web-summit-qatar-2027"
+        }
+      ],
+      "tags": [
+        "startups"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "قمة الويب قطر 2027",
+        "summary": "النسخة الرابعة، يسبقها معسكر تدريبي للشركات الناشئة بعنوان «الطريق إلى قمة الويب قطر».",
+        "why": "تتزامن مع معرض كومكس (1–4 فبراير) فعليك اختيار أحدهما. وهي أفضل للقاءات الشركات الناشئة والمستثمرين.",
+        "eligibilityNote": "بتذاكر مدفوعة. تتوفر عادةً خيارات للناشئين والطلبة."
+      }
+    },
+    {
+      "id": "leap-2027-riyadh",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "event",
+      "title": "LEAP 2027",
+      "summary": "Saudi Arabia's largest technology show and a major deal venue.",
+      "why": "Where big regional tech deals and hiring announcements land.",
+      "organizer": "Informa Tech",
+      "start": "2027-04-12",
+      "end": "2027-04-15",
+      "deadline": null,
+      "approx": true,
+      "dateNote": "Sources disagree on the exact dates. 12–15 April is the most common.",
+      "location": "Riyadh Exhibition and Convention Centre, Malham",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "likely",
+      "eligibilityNote": "Ticketed. Check for student tickets once dates are confirmed.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "GCC Business News",
+          "url": "https://www.gccbusinessnews.com/tag/leap-2027-april-dates/"
+        }
+      ],
+      "tags": [
+        "expo"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "ليب 2027",
+        "summary": "أكبر معرض تقني في السعودية وأحد أهم مواقع إبرام الصفقات.",
+        "why": "هنا تُعلن صفقات التقنية الإقليمية الكبرى وفرص التوظيف.",
+        "eligibilityNote": "بتذاكر مدفوعة. تحقق من تذاكر الطلبة بعد تأكيد المواعيد."
+      }
+    },
+    {
+      "id": "nyuad-hackathon-social-good",
+      "task": "gcc",
+      "region": "gcc",
+      "category": "competition",
+      "title": "NYUAD Hackathon for Social Good in the Arab World",
+      "summary": "Hackathon for students and mentors from the Arab world. The in-person event was moved to 22–26 April 2027, and a virtual ideation phase is tied to the UN Water Conference (8–10 Dec 2026).",
+      "why": "A respected regional hackathon and a strong portfolio piece.",
+      "organizer": "New York University Abu Dhabi",
+      "start": "2027-04-22",
+      "end": "2027-04-26",
+      "deadline": null,
+      "approx": false,
+      "dateNote": "Registration details not published",
+      "location": "Abu Dhabi, UAE",
+      "mode": "hybrid",
+      "cost": null,
+      "prize": null,
+      "travel": "gcc",
+      "eligibility": "check",
+      "eligibilityNote": "Eligibility, deadline and team rules are not published. Email nyuad.hackathon@nyu.edu.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "NYUAD Hackathon",
+          "url": "https://hackathon.nyuad.nyu.edu/"
+        }
+      ],
+      "tags": [
+        "hackathon",
+        "social good"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "هاكاثون جامعة نيويورك أبوظبي للخير الاجتماعي في العالم العربي",
+        "summary": "هاكاثون للطلبة والمرشدين من العالم العربي. نُقل الحدث الحضوري إلى 22–26 أبريل 2027، ومرحلة التفكير الافتراضية مرتبطة بمؤتمر الأمم المتحدة للمياه (8–10 ديسمبر 2026).",
+        "why": "هاكاثون إقليمي مرموق وإضافة قوية لملفك.",
+        "eligibilityNote": "لم تُنشر شروط الأهلية والموعد النهائي وقواعد الفرق. راسل nyuad.hackathon@nyu.edu."
+      }
+    },
+    {
+      "id": "imagine-cup-2027",
+      "task": "global",
+      "region": "global",
+      "category": "competition",
+      "title": "Microsoft Imagine Cup 2027",
+      "summary": "Student technology competition. Microsoft's own page says 2027 is 'coming soon'. A third-party listing gives 8 January 2027 as the registration deadline, with regional rounds in spring and a world final in May.",
+      "why": "The biggest student tech contest, and classmates can enter as a team from Oman, online.",
+      "organizer": "Microsoft",
+      "start": null,
+      "end": null,
+      "deadline": "2027-01-08",
+      "approx": false,
+      "dateNote": "Deadline comes from a third-party listing, not Microsoft",
+      "location": "Online, with regional and world finals",
+      "mode": "online",
+      "cost": "Free to enter",
+      "prize": null,
+      "travel": "online",
+      "eligibility": "likely",
+      "eligibilityNote": "The listing says students aged 18+ in teams of up to four. Confirm in the official rules.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "Imagine Cup (official)",
+          "url": "https://imaginecup.microsoft.com/en-us/"
+        },
+        {
+          "label": "Internshala listing",
+          "url": "https://internshala.com/competitions/2027-imagine-cup-competition/"
+        }
+      ],
+      "tags": [
+        "AI",
+        "student contest"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "كأس مايكروسوفت للتخيل (Imagine Cup) 2027",
+        "summary": "مسابقة تقنية للطلبة. تقول صفحة مايكروسوفت إن نسخة 2027 «قريبًا». ويذكر موقع طرف ثالث أن آخر موعد للتسجيل 8 يناير 2027، مع جولات إقليمية في الربيع ونهائي عالمي في مايو.",
+        "why": "أكبر مسابقة تقنية للطلبة، ويمكن لزملائك الدخول كفريق من عُمان عبر الإنترنت.",
+        "eligibilityNote": "يذكر الموقع أن المشاركين طلبة من عمر 18 فأكثر ضمن فرق حتى أربعة. تأكد من القواعد الرسمية."
+      }
+    },
+    {
+      "id": "google-solution-challenge-2027",
+      "task": "global",
+      "region": "global",
+      "category": "competition",
+      "title": "Google Solution Challenge 2027",
+      "summary": "Build a solution for a UN Sustainable Development Goal using Google technology. There is no 2027 announcement yet, and earlier editions closed around 31 March.",
+      "why": "Free to enter online and a good portfolio project.",
+      "organizer": "Google Developers",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "2027 timeline not announced",
+      "location": "Online",
+      "mode": "online",
+      "cost": "Free to enter",
+      "prize": null,
+      "travel": "online",
+      "eligibility": "likely",
+      "eligibilityNote": "Past rules: university students in teams of 1–4. Check the 2027 rules.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "Google Developers timeline",
+          "url": "https://developers.google.com/community/gdsc-solution-challenge/timeline"
+        }
+      ],
+      "tags": [
+        "student contest",
+        "SDG"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "تحدي الحلول من جوجل 2027",
+        "summary": "ابنِ حلًا لأحد أهداف التنمية المستدامة للأمم المتحدة باستخدام تقنيات جوجل. لم يُعلن عن نسخة 2027 بعد، وأُغلقت النسخ السابقة نحو 31 مارس.",
+        "why": "مجاني عبر الإنترنت ومشروع جيد لملف أعمالك.",
+        "eligibilityNote": "القواعد السابقة: طلبة الجامعات ضمن فرق من 1–4. تحقق من قواعد 2027."
+      }
+    },
+    {
+      "id": "acpc-arab-collegiate-programming",
+      "task": "global",
+      "region": "global",
+      "category": "competition",
+      "title": "Arab Collegiate Programming Championship (ACPC)",
+      "summary": "Regional final for the ICPC. The 2025 final ran 12–14 Dec in Luxor, Egypt, and Omani teams qualify through the Oman Collegiate Programming Contest.",
+      "why": "The step between Omani contests and the ICPC World Finals.",
+      "organizer": "ACM ICPC Arab region",
+      "start": null,
+      "end": null,
+      "deadline": null,
+      "approx": false,
+      "dateNote": "2026 date and host not confirmed. It is usually held in Nov–Dec.",
+      "location": "Egypt (2025 host)",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "far",
+      "eligibility": "likely",
+      "eligibilityNote": "Teams qualify through national contests. Individual entry is not usual.",
+      "confidence": "unverified",
+      "sources": [
+        {
+          "label": "JUST ACM chapter",
+          "url": "https://just.acm.org/category/event/"
+        }
+      ],
+      "tags": [
+        "programming",
+        "ICPC"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "بطولة العرب للبرمجة بين الجامعات (ACPC)",
+        "summary": "النهائي الإقليمي لمسابقة ICPC. أُقيم نهائي 2025 في 12–14 ديسمبر بالأقصر في مصر، وتتأهل الفرق العُمانية عبر مسابقة عُمان للبرمجة.",
+        "why": "الخطوة الواصلة بين المسابقات العُمانية والنهائيات العالمية لـ ICPC.",
+        "eligibilityNote": "تتأهل الفرق عبر المسابقات الوطنية، والمشاركة الفردية غير معتادة."
+      }
+    },
+    {
+      "id": "oracle-ai-world-2026",
+      "task": "global",
+      "region": "global",
+      "category": "event",
+      "title": "Oracle AI World 2026",
+      "summary": "Oracle's flagship conference. Oracle is a main cloud vendor in Oman through Oman Data Park.",
+      "why": "Product news here changes what local partners can offer Omani companies.",
+      "organizer": "Oracle",
+      "start": "2026-10-25",
+      "end": "2026-10-28",
+      "deadline": null,
+      "approx": false,
+      "dateNote": "One listing says 26–29 Oct. Oracle's FAQ was quoted as 25–28.",
+      "location": "The Venetian, Las Vegas, USA",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "far",
+      "eligibility": "check",
+      "eligibilityNote": "Paid, in person in the US. Keynotes are often streamed.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "Oracle FAQ",
+          "url": "https://www.oracle.com/ai-world/faq/"
+        }
+      ],
+      "tags": [
+        "cloud",
+        "AI"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مؤتمر أوراكل للذكاء الاصطناعي 2026",
+        "summary": "المؤتمر الرئيسي لأوراكل. وأوراكل مزوّد سحابة رئيسي في عُمان عبر عُمان داتا بارك.",
+        "why": "تغيّر أخبار المنتجات هنا ما يستطيع الشركاء المحليون تقديمه للشركات العُمانية.",
+        "eligibilityNote": "مدفوع وحضوري في الولايات المتحدة. غالبًا ما تُبث الكلمات الرئيسية."
+      }
+    },
+    {
+      "id": "web-summit-lisbon-2026",
+      "task": "global",
+      "region": "global",
+      "category": "event",
+      "title": "Web Summit Lisbon 2026",
+      "summary": "Europe's biggest startup and technology event.",
+      "why": "It sets the startup agenda, and Web Summit Qatar follows in February.",
+      "organizer": "Web Summit",
+      "start": "2026-11-09",
+      "end": "2026-11-12",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Lisbon, Portugal",
+      "mode": "in-person",
+      "cost": null,
+      "prize": null,
+      "travel": "far",
+      "eligibility": "check",
+      "eligibilityNote": "Ticketed and abroad. Useful as market watching.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "Web Summit",
+          "url": "https://websummit.com/"
+        }
+      ],
+      "tags": [
+        "startups"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "قمة الويب لشبونة 2026",
+        "summary": "أكبر حدث للشركات الناشئة والتقنية في أوروبا.",
+        "why": "تحدد أجندة الشركات الناشئة، وتليها قمة الويب قطر في فبراير.",
+        "eligibilityNote": "بتذاكر وفي الخارج. مفيدة لمتابعة السوق."
+      }
+    },
+    {
+      "id": "microsoft-ignite-2026",
+      "task": "global",
+      "region": "global",
+      "category": "event",
+      "title": "Microsoft Ignite 2026",
+      "summary": "Microsoft's annual conference for Azure, Copilot and AI launches. It is hybrid, so you can follow online.",
+      "why": "Microsoft is the Numo accelerator partner in Oman and a reported prospective tenant of the AI zone.",
+      "organizer": "Microsoft",
+      "start": "2026-11-17",
+      "end": "2026-11-20",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Moscone Center, San Francisco, and online",
+      "mode": "hybrid",
+      "cost": null,
+      "prize": null,
+      "travel": "online",
+      "eligibility": "likely",
+      "eligibilityNote": "Online attendance is offered. Check whether it is free.",
+      "confidence": "likely",
+      "sources": [
+        {
+          "label": "UC Today",
+          "url": "https://www.uctoday.com/events/microsoft-ignite-2026/"
+        }
+      ],
+      "tags": [
+        "cloud",
+        "AI"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "مايكروسوفت إغنايت 2026",
+        "summary": "المؤتمر السنوي لمايكروسوفت لإطلاقات Azure وCopilot والذكاء الاصطناعي. هو هجين فيمكنك المتابعة عبر الإنترنت.",
+        "why": "مايكروسوفت شريكة مسرّع نمو في عُمان، ومستأجر محتمل في منطقة الذكاء الاصطناعي بحسب التقارير.",
+        "eligibilityNote": "الحضور عن بُعد متاح. تحقق هل هو مجاني."
+      }
+    },
+    {
+      "id": "aws-reinvent-2026",
+      "task": "global",
+      "region": "global",
+      "category": "event",
+      "title": "AWS re:Invent 2026",
+      "summary": "Amazon Web Services' annual cloud conference with product launches and partner announcements.",
+      "why": "Cloud launches here shape what local firms can build on.",
+      "organizer": "Amazon Web Services",
+      "start": "2026-11-30",
+      "end": "2026-12-04",
+      "deadline": null,
+      "approx": false,
+      "dateNote": null,
+      "location": "Las Vegas, USA",
+      "mode": "in-person",
+      "cost": "USD 2,499 full pass",
+      "prize": null,
+      "travel": "far",
+      "eligibility": "check",
+      "eligibilityNote": "Expensive and abroad. Keynotes are usually streamed.",
+      "confidence": "confirmed",
+      "sources": [
+        {
+          "label": "AWS re:Invent",
+          "url": "https://aws.amazon.com/events/reinvent"
+        }
+      ],
+      "tags": [
+        "cloud"
+      ],
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "ar": {
+        "title": "أمازون ويب سيرفيسز ري:إنفنت 2026",
+        "summary": "المؤتمر السنوي للحوسبة السحابية من أمازون ويب سيرفيسز مع إطلاقات منتجات وإعلانات شركاء.",
+        "why": "تحدد إطلاقات السحابة هنا ما تستطيع الشركات المحلية البناء عليه.",
+        "eligibilityNote": "مكلف وفي الخارج. تُبث الكلمات الرئيسية عادةً."
+      }
+    }
+  ]
+}
